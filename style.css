@@ -194,7 +194,7 @@ body {
 .is-sticky #nav a{
   color:#777777;
 }
-header img {
+header .logo img {
   filter: brightness(0) invert(1);
 }
 .is-sticky header img {
@@ -886,7 +886,7 @@ input:focus,textarea:focus {
 /*------------------------------------------------------------------
 [ 17 Footer ]
 --------------------------------------------------------------------*/
-footer {
+body > footer {
   background: rgb(37, 37, 37) none repeat scroll 0 0;
   padding: 15px 0;
 }
