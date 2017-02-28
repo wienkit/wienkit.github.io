@@ -170,7 +170,7 @@ body {
   transition: none;
 }
 #nav li.active a {
-  border-bottom: 2px solid #8328ff;
+  border-bottom: 2px solid #4d89ff;
 }
 .nav.nav-tabs {
   border-bottom: 0 none;
@@ -184,7 +184,7 @@ body {
   border-radius: 0;
 }
 #nav a:hover{
-  border-bottom:2px solid #8328ff;
+  border-bottom:2px solid #4d89ff;
   background:none;
 }
 /*jquery-sticky-menu*/
@@ -226,7 +226,7 @@ html,body{height:100%;}
   background-size:cover;
   position:absolute;
 }
-.slide-1{background-image:url(images/slider/slide-bg-1.jpg)}
+.slide-1{background-image:url(images/slider/slide-bg-1.png)}
 .slide-2{background-image:url(images/slider/slide-bg-2.jpg)}
 .slide-3{background-image:url(images/slider/slide-bg-3.jpg)}
 /*-------------------
@@ -251,7 +251,7 @@ html,body{height:100%;}
   text-transform: uppercase;
 }
 .bg-yellow {
-  background: #8328ff none repeat scroll 0 0;
+  background: #4d89ff none repeat scroll 0 0;
   height: 2px !important;
   margin: 14% 0;
   width: 30px;
@@ -272,8 +272,8 @@ html,body{height:100%;}
 	display:inline-block;
 }
 .digital:hover{
-  background:#8328ff;
-  border:2px solid #8328ff;
+  background:#4d89ff;
+  border:2px solid #4d89ff;
 }
 /*-------------------
 [ 2.2 Fawesome-Control ]
@@ -326,7 +326,7 @@ html,body{height:100%;}
   left: 44%;
 }
 .black_number {
-  color: #9241ff;
+  color: #ffa428;
 }
 .about_text:hover .black_number {
   transform: translateY(-100%);
@@ -392,7 +392,7 @@ html,body{height:100%;}
 .team_icon i {
   font-size: 20px;
   margin: 15px 15px 25px;
-  color: #8328ff;
+  color: #4d89ff;
   transition: all 0.3s ease 0s;
 }
 .team_icon  a:hover,.social_icon i :hover {
@@ -438,7 +438,7 @@ html,body{height:100%;}
 [5. What-We-Do ]
 --------------------------------------------------------------------*/
 .what_do.section_padding {
-  background: #8328ff none repeat scroll 0 0;
+  background: #4d89ff none repeat scroll 0 0;
   color: #fff;
 }
 .blog-title p ,.what_do p {
@@ -818,7 +818,7 @@ html,body{height:100%;}
   padding-bottom: 100px;
 }
 .contact_icon i {
-  color: #8328ff;
+  color: #4d89ff;
   font-size: 45px;
   margin-bottom: 15px;
 }
@@ -838,7 +838,7 @@ input, textarea {
   width: 100%;
 }
 input:focus,textarea:focus {
-  border: 1px solid #8328ff;
+  border: 1px solid #4d89ff;
 }
 .required {
   font-size: 11px;
@@ -855,7 +855,7 @@ input:focus,textarea:focus {
 [ 14 Happy ]
 --------------------------------------------------------------------*/
 .happy {
-  background: #8328ff none repeat scroll 0 0;
+  background: #4d89ff none repeat scroll 0 0;
   color: #fff;
 }
 #counter_happy {
