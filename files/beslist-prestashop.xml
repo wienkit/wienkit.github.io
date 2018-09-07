@@ -1,1392 +1,934 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<productfeed type="beslist" date="2017-09-08 11:09:54">
-    	<product>
-		<title><![CDATA[Gebleekte T-shirts met Korte Mouwen]]></title>
-		<price>19,98</price>
-		<code>1-1</code>
-		<sku></sku>
-		<variantcode>1-13</variantcode>
-		<size>S</size>
-		<modelcode>1</modelcode>
-		<color>Oranje</color>
-		<productlink><![CDATA[http://172.17.0.9/index.php?id_product=1&controller=product#/size-s/color-oranje]]></productlink>
-		<imagelink><![CDATA[http://172.17.0.9/img/p/1/1.jpg]]></imagelink>
-		<imagelink_1><![CDATA[http://172.17.0.9/img/p/2/2.jpg]]></imagelink_1>
-		<imagelink_2><![CDATA[http://172.17.0.9/img/p/3/3.jpg]]></imagelink_2>
-		<imagelink_3><![CDATA[http://172.17.0.9/img/p/4/4.jpg]]></imagelink_3>
-		<category>!Overig</category>
-		<shop_category>Root &gt; Home &gt; Dames &gt; Tops &gt; T-shirts</shop_category>
-		<deliveryperiod_nl>Op voorraad</deliveryperiod_nl>
-		<shippingcost_nl>6.05</shippingcost_nl>
-		<deliveryperiod_be>Op voorraad</deliveryperiod_be>
-		<shippingcost_be>0</shippingcost_be>
-		<eancode></eancode>
-		<description><![CDATA[\\nGebleekt T-shirt met korte mouwen en hoge halslijn. Zacht en elastisch materiaal zorgt voor een comfortabele pasvorm. Maak het af met een strooien hoed en u bent klaar voor de zomer!\\n]]></description>
-		<display>1</display>
-		<brand><![CDATA[Fashion Manufacturer]]></brand>
-		<samenstellingen><![CDATA[Katoen]]></samenstellingen>
-		<stijlen><![CDATA[Casual]]></stijlen>
-		<eigenschappen><![CDATA[Korte mouwen]]></eigenschappen>
-		<size><![CDATA[S]]></size>
-		<color><![CDATA[Oranje]]></color>
-		<condition>Nieuw</condition>
-	</product>
-	<product>
-		<title><![CDATA[Gebleekte T-shirts met Korte Mouwen]]></title>
-		<price>19,98</price>
-		<code>2-1</code>
-		<sku></sku>
-		<variantcode>1-14</variantcode>
-		<size>S</size>
-		<modelcode>1</modelcode>
-		<color>Blauw</color>
-		<productlink><![CDATA[http://172.17.0.9/index.php?id_product=1&controller=product#/size-s/color-blauw]]></productlink>
-		<imagelink_1><![CDATA[http://172.17.0.9/img/p/1/1.jpg]]></imagelink_1>
-		<imagelink_2><![CDATA[http://172.17.0.9/img/p/2/2.jpg]]></imagelink_2>
-		<imagelink><![CDATA[http://172.17.0.9/img/p/3/3.jpg]]></imagelink>
-		<imagelink_3><![CDATA[http://172.17.0.9/img/p/4/4.jpg]]></imagelink_3>
-		<category>!Overig</category>
-		<shop_category>Root &gt; Home &gt; Dames &gt; Tops &gt; T-shirts</shop_category>
-		<deliveryperiod_nl>Op voorraad</deliveryperiod_nl>
-		<shippingcost_nl>6.05</shippingcost_nl>
-		<deliveryperiod_be>Op voorraad</deliveryperiod_be>
-		<shippingcost_be>0</shippingcost_be>
-		<eancode></eancode>
-		<description><![CDATA[\\nGebleekt T-shirt met korte mouwen en hoge halslijn. Zacht en elastisch materiaal zorgt voor een comfortabele pasvorm. Maak het af met een strooien hoed en u bent klaar voor de zomer!\\n]]></description>
-		<display>1</display>
-		<brand><![CDATA[Fashion Manufacturer]]></brand>
-		<samenstellingen><![CDATA[Katoen]]></samenstellingen>
-		<stijlen><![CDATA[Casual]]></stijlen>
-		<eigenschappen><![CDATA[Korte mouwen]]></eigenschappen>
-		<size><![CDATA[S]]></size>
-		<color><![CDATA[Blauw]]></color>
-		<condition>Nieuw</condition>
-	</product>
-	<product>
-		<title><![CDATA[Gebleekte T-shirts met Korte Mouwen]]></title>
-		<price>19,98</price>
-		<code>3-1</code>
-		<sku></sku>
-		<variantcode>1-13</variantcode>
-		<size>M</size>
-		<modelcode>1</modelcode>
-		<color>Oranje</color>
-		<productlink><![CDATA[http://172.17.0.9/index.php?id_product=1&controller=product#/size-m/color-oranje]]></productlink>
-		<imagelink><![CDATA[http://172.17.0.9/img/p/1/1.jpg]]></imagelink>
-		<imagelink_1><![CDATA[http://172.17.0.9/img/p/2/2.jpg]]></imagelink_1>
-		<imagelink_2><![CDATA[http://172.17.0.9/img/p/3/3.jpg]]></imagelink_2>
-		<imagelink_3><![CDATA[http://172.17.0.9/img/p/4/4.jpg]]></imagelink_3>
-		<category>!Overig</category>
-		<shop_category>Root &gt; Home &gt; Dames &gt; Tops &gt; T-shirts</shop_category>
-		<deliveryperiod_nl>Op voorraad</deliveryperiod_nl>
-		<shippingcost_nl>6.05</shippingcost_nl>
-		<deliveryperiod_be>Op voorraad</deliveryperiod_be>
-		<shippingcost_be>0</shippingcost_be>
-		<eancode></eancode>
-		<description><![CDATA[\\nGebleekt T-shirt met korte mouwen en hoge halslijn. Zacht en elastisch materiaal zorgt voor een comfortabele pasvorm. Maak het af met een strooien hoed en u bent klaar voor de zomer!\\n]]></description>
-		<display>1</display>
-		<brand><![CDATA[Fashion Manufacturer]]></brand>
-		<samenstellingen><![CDATA[Katoen]]></samenstellingen>
-		<stijlen><![CDATA[Casual]]></stijlen>
-		<eigenschappen><![CDATA[Korte mouwen]]></eigenschappen>
-		<size><![CDATA[M]]></size>
-		<color><![CDATA[Oranje]]></color>
-		<condition>Nieuw</condition>
-	</product>
-	<product>
-		<title><![CDATA[Gebleekte T-shirts met Korte Mouwen]]></title>
-		<price>19,98</price>
-		<code>4-1</code>
-		<sku></sku>
-		<variantcode>1-14</variantcode>
-		<size>M</size>
-		<modelcode>1</modelcode>
-		<color>Blauw</color>
-		<productlink><![CDATA[http://172.17.0.9/index.php?id_product=1&controller=product#/size-m/color-blauw]]></productlink>
-		<imagelink_1><![CDATA[http://172.17.0.9/img/p/1/1.jpg]]></imagelink_1>
-		<imagelink_2><![CDATA[http://172.17.0.9/img/p/2/2.jpg]]></imagelink_2>
-		<imagelink><![CDATA[http://172.17.0.9/img/p/3/3.jpg]]></imagelink>
-		<imagelink_3><![CDATA[http://172.17.0.9/img/p/4/4.jpg]]></imagelink_3>
-		<category>!Overig</category>
-		<shop_category>Root &gt; Home &gt; Dames &gt; Tops &gt; T-shirts</shop_category>
-		<deliveryperiod_nl>Op voorraad</deliveryperiod_nl>
-		<shippingcost_nl>6.05</shippingcost_nl>
-		<deliveryperiod_be>Op voorraad</deliveryperiod_be>
-		<shippingcost_be>0</shippingcost_be>
-		<eancode></eancode>
-		<description><![CDATA[\\nGebleekt T-shirt met korte mouwen en hoge halslijn. Zacht en elastisch materiaal zorgt voor een comfortabele pasvorm. Maak het af met een strooien hoed en u bent klaar voor de zomer!\\n]]></description>
-		<display>1</display>
-		<brand><![CDATA[Fashion Manufacturer]]></brand>
-		<samenstellingen><![CDATA[Katoen]]></samenstellingen>
-		<stijlen><![CDATA[Casual]]></stijlen>
-		<eigenschappen><![CDATA[Korte mouwen]]></eigenschappen>
-		<size><![CDATA[M]]></size>
-		<color><![CDATA[Blauw]]></color>
-		<condition>Nieuw</condition>
-	</product>
-	<product>
-		<title><![CDATA[Gebleekte T-shirts met Korte Mouwen]]></title>
-		<price>19,98</price>
-		<code>5-1</code>
-		<sku></sku>
-		<variantcode>1-13</variantcode>
-		<size>L</size>
-		<modelcode>1</modelcode>
-		<color>Oranje</color>
-		<productlink><![CDATA[http://172.17.0.9/index.php?id_product=1&controller=product#/size-l/color-oranje]]></productlink>
-		<imagelink><![CDATA[http://172.17.0.9/img/p/1/1.jpg]]></imagelink>
-		<imagelink_1><![CDATA[http://172.17.0.9/img/p/2/2.jpg]]></imagelink_1>
-		<imagelink_2><![CDATA[http://172.17.0.9/img/p/3/3.jpg]]></imagelink_2>
-		<imagelink_3><![CDATA[http://172.17.0.9/img/p/4/4.jpg]]></imagelink_3>
-		<category>!Overig</category>
-		<shop_category>Root &gt; Home &gt; Dames &gt; Tops &gt; T-shirts</shop_category>
-		<deliveryperiod_nl>Op voorraad</deliveryperiod_nl>
-		<shippingcost_nl>6.05</shippingcost_nl>
-		<deliveryperiod_be>Op voorraad</deliveryperiod_be>
-		<shippingcost_be>0</shippingcost_be>
-		<eancode></eancode>
-		<description><![CDATA[\\nGebleekt T-shirt met korte mouwen en hoge halslijn. Zacht en elastisch materiaal zorgt voor een comfortabele pasvorm. Maak het af met een strooien hoed en u bent klaar voor de zomer!\\n]]></description>
-		<display>1</display>
-		<brand><![CDATA[Fashion Manufacturer]]></brand>
-		<samenstellingen><![CDATA[Katoen]]></samenstellingen>
-		<stijlen><![CDATA[Casual]]></stijlen>
-		<eigenschappen><![CDATA[Korte mouwen]]></eigenschappen>
-		<size><![CDATA[L]]></size>
-		<color><![CDATA[Oranje]]></color>
-		<condition>Nieuw</condition>
-	</product>
-	<product>
-		<title><![CDATA[Gebleekte T-shirts met Korte Mouwen]]></title>
-		<price>19,98</price>
-		<code>6-1</code>
-		<sku></sku>
-		<variantcode>1-14</variantcode>
-		<size>L</size>
-		<modelcode>1</modelcode>
-		<color>Blauw</color>
-		<productlink><![CDATA[http://172.17.0.9/index.php?id_product=1&controller=product#/size-l/color-blauw]]></productlink>
-		<imagelink_1><![CDATA[http://172.17.0.9/img/p/1/1.jpg]]></imagelink_1>
-		<imagelink_2><![CDATA[http://172.17.0.9/img/p/2/2.jpg]]></imagelink_2>
-		<imagelink><![CDATA[http://172.17.0.9/img/p/3/3.jpg]]></imagelink>
-		<imagelink_3><![CDATA[http://172.17.0.9/img/p/4/4.jpg]]></imagelink_3>
-		<category>!Overig</category>
-		<shop_category>Root &gt; Home &gt; Dames &gt; Tops &gt; T-shirts</shop_category>
-		<deliveryperiod_nl>Op voorraad</deliveryperiod_nl>
-		<shippingcost_nl>6.05</shippingcost_nl>
-		<deliveryperiod_be>Op voorraad</deliveryperiod_be>
-		<shippingcost_be>0</shippingcost_be>
-		<eancode></eancode>
-		<description><![CDATA[\\nGebleekt T-shirt met korte mouwen en hoge halslijn. Zacht en elastisch materiaal zorgt voor een comfortabele pasvorm. Maak het af met een strooien hoed en u bent klaar voor de zomer!\\n]]></description>
-		<display>1</display>
-		<brand><![CDATA[Fashion Manufacturer]]></brand>
-		<samenstellingen><![CDATA[Katoen]]></samenstellingen>
-		<stijlen><![CDATA[Casual]]></stijlen>
-		<eigenschappen><![CDATA[Korte mouwen]]></eigenschappen>
-		<size><![CDATA[L]]></size>
-		<color><![CDATA[Blauw]]></color>
-		<condition>Nieuw</condition>
-	</product>
-	<product>
-		<title><![CDATA[Blouse]]></title>
-		<price>32,67</price>
-		<code>7-2</code>
-		<sku></sku>
-		<variantcode>2-11</variantcode>
-		<size>S</size>
-		<modelcode>2</modelcode>
-		<color>Zwart</color>
-		<productlink><![CDATA[http://172.17.0.9/index.php?id_product=2&controller=product#/size-s/color-zwart]]></productlink>
-		<imagelink_1><![CDATA[http://172.17.0.9/img/p/5/5.jpg]]></imagelink_1>
-		<imagelink_2><![CDATA[http://172.17.0.9/img/p/6/6.jpg]]></imagelink_2>
-		<imagelink><![CDATA[http://172.17.0.9/img/p/7/7.jpg]]></imagelink>
-		<category>!Overig</category>
-		<shop_category>Root &gt; Home &gt; Dames &gt; Tops &gt; Blouses</shop_category>
-		<deliveryperiod_nl>Op voorraad</deliveryperiod_nl>
-		<shippingcost_nl>6.05</shippingcost_nl>
-		<deliveryperiod_be>Op voorraad</deliveryperiod_be>
-		<shippingcost_be>0</shippingcost_be>
-		<eancode></eancode>
-		<description><![CDATA[\\nBlouse met korte mouwen en gedrapeerd detail.\\n]]></description>
-		<display>1</display>
-		<brand><![CDATA[Fashion Manufacturer]]></brand>
-		<samenstellingen><![CDATA[Katoen]]></samenstellingen>
-		<stijlen><![CDATA[Casual]]></stijlen>
-		<eigenschappen><![CDATA[Korte mouwen]]></eigenschappen>
-		<size><![CDATA[S]]></size>
-		<color><![CDATA[Zwart]]></color>
-		<condition>Nieuw</condition>
-	</product>
-	<product>
-		<title><![CDATA[Blouse]]></title>
-		<price>32,67</price>
-		<code>8-2</code>
-		<sku></sku>
-		<variantcode>2-8</variantcode>
-		<size>S</size>
-		<modelcode>2</modelcode>
-		<color>Wit</color>
-		<productlink><![CDATA[http://172.17.0.9/index.php?id_product=2&controller=product#/size-s/color-wit]]></productlink>
-		<imagelink><![CDATA[http://172.17.0.9/img/p/5/5.jpg]]></imagelink>
-		<imagelink_1><![CDATA[http://172.17.0.9/img/p/6/6.jpg]]></imagelink_1>
-		<imagelink_2><![CDATA[http://172.17.0.9/img/p/7/7.jpg]]></imagelink_2>
-		<category>!Overig</category>
-		<shop_category>Root &gt; Home &gt; Dames &gt; Tops &gt; Blouses</shop_category>
-		<deliveryperiod_nl>Op voorraad</deliveryperiod_nl>
-		<shippingcost_nl>6.05</shippingcost_nl>
-		<deliveryperiod_be>Op voorraad</deliveryperiod_be>
-		<shippingcost_be>0</shippingcost_be>
-		<eancode></eancode>
-		<description><![CDATA[\\nBlouse met korte mouwen en gedrapeerd detail.\\n]]></description>
-		<display>1</display>
-		<brand><![CDATA[Fashion Manufacturer]]></brand>
-		<samenstellingen><![CDATA[Katoen]]></samenstellingen>
-		<stijlen><![CDATA[Casual]]></stijlen>
-		<eigenschappen><![CDATA[Korte mouwen]]></eigenschappen>
-		<size><![CDATA[S]]></size>
-		<color><![CDATA[Wit]]></color>
-		<condition>Nieuw</condition>
-	</product>
-	<product>
-		<title><![CDATA[Blouse]]></title>
-		<price>32,67</price>
-		<code>9-2</code>
-		<sku></sku>
-		<variantcode>2-11</variantcode>
-		<size>M</size>
-		<modelcode>2</modelcode>
-		<color>Zwart</color>
-		<productlink><![CDATA[http://172.17.0.9/index.php?id_product=2&controller=product#/size-m/color-zwart]]></productlink>
-		<imagelink_1><![CDATA[http://172.17.0.9/img/p/5/5.jpg]]></imagelink_1>
-		<imagelink_2><![CDATA[http://172.17.0.9/img/p/6/6.jpg]]></imagelink_2>
-		<imagelink><![CDATA[http://172.17.0.9/img/p/7/7.jpg]]></imagelink>
-		<category>!Overig</category>
-		<shop_category>Root &gt; Home &gt; Dames &gt; Tops &gt; Blouses</shop_category>
-		<deliveryperiod_nl>Op voorraad</deliveryperiod_nl>
-		<shippingcost_nl>6.05</shippingcost_nl>
-		<deliveryperiod_be>Op voorraad</deliveryperiod_be>
-		<shippingcost_be>0</shippingcost_be>
-		<eancode></eancode>
-		<description><![CDATA[\\nBlouse met korte mouwen en gedrapeerd detail.\\n]]></description>
-		<display>1</display>
-		<brand><![CDATA[Fashion Manufacturer]]></brand>
-		<samenstellingen><![CDATA[Katoen]]></samenstellingen>
-		<stijlen><![CDATA[Casual]]></stijlen>
-		<eigenschappen><![CDATA[Korte mouwen]]></eigenschappen>
-		<size><![CDATA[M]]></size>
-		<color><![CDATA[Zwart]]></color>
-		<condition>Nieuw</condition>
-	</product>
-	<product>
-		<title><![CDATA[Blouse]]></title>
-		<price>32,67</price>
-		<code>10-2</code>
-		<sku></sku>
-		<variantcode>2-8</variantcode>
-		<size>M</size>
-		<modelcode>2</modelcode>
-		<color>Wit</color>
-		<productlink><![CDATA[http://172.17.0.9/index.php?id_product=2&controller=product#/size-m/color-wit]]></productlink>
-		<imagelink><![CDATA[http://172.17.0.9/img/p/5/5.jpg]]></imagelink>
-		<imagelink_1><![CDATA[http://172.17.0.9/img/p/6/6.jpg]]></imagelink_1>
-		<imagelink_2><![CDATA[http://172.17.0.9/img/p/7/7.jpg]]></imagelink_2>
-		<category>!Overig</category>
-		<shop_category>Root &gt; Home &gt; Dames &gt; Tops &gt; Blouses</shop_category>
-		<deliveryperiod_nl>Op voorraad</deliveryperiod_nl>
-		<shippingcost_nl>6.05</shippingcost_nl>
-		<deliveryperiod_be>Op voorraad</deliveryperiod_be>
-		<shippingcost_be>0</shippingcost_be>
-		<eancode></eancode>
-		<description><![CDATA[\\nBlouse met korte mouwen en gedrapeerd detail.\\n]]></description>
-		<display>1</display>
-		<brand><![CDATA[Fashion Manufacturer]]></brand>
-		<samenstellingen><![CDATA[Katoen]]></samenstellingen>
-		<stijlen><![CDATA[Casual]]></stijlen>
-		<eigenschappen><![CDATA[Korte mouwen]]></eigenschappen>
-		<size><![CDATA[M]]></size>
-		<color><![CDATA[Wit]]></color>
-		<condition>Nieuw</condition>
-	</product>
-	<product>
-		<title><![CDATA[Blouse]]></title>
-		<price>32,67</price>
-		<code>11-2</code>
-		<sku></sku>
-		<variantcode>2-11</variantcode>
-		<size>L</size>
-		<modelcode>2</modelcode>
-		<color>Zwart</color>
-		<productlink><![CDATA[http://172.17.0.9/index.php?id_product=2&controller=product#/size-l/color-zwart]]></productlink>
-		<imagelink_1><![CDATA[http://172.17.0.9/img/p/5/5.jpg]]></imagelink_1>
-		<imagelink_2><![CDATA[http://172.17.0.9/img/p/6/6.jpg]]></imagelink_2>
-		<imagelink><![CDATA[http://172.17.0.9/img/p/7/7.jpg]]></imagelink>
-		<category>!Overig</category>
-		<shop_category>Root &gt; Home &gt; Dames &gt; Tops &gt; Blouses</shop_category>
-		<deliveryperiod_nl>Op voorraad</deliveryperiod_nl>
-		<shippingcost_nl>6.05</shippingcost_nl>
-		<deliveryperiod_be>Op voorraad</deliveryperiod_be>
-		<shippingcost_be>0</shippingcost_be>
-		<eancode></eancode>
-		<description><![CDATA[\\nBlouse met korte mouwen en gedrapeerd detail.\\n]]></description>
-		<display>1</display>
-		<brand><![CDATA[Fashion Manufacturer]]></brand>
-		<samenstellingen><![CDATA[Katoen]]></samenstellingen>
-		<stijlen><![CDATA[Casual]]></stijlen>
-		<eigenschappen><![CDATA[Korte mouwen]]></eigenschappen>
-		<size><![CDATA[L]]></size>
-		<color><![CDATA[Zwart]]></color>
-		<condition>Nieuw</condition>
-	</product>
-	<product>
-		<title><![CDATA[Blouse]]></title>
-		<price>32,67</price>
-		<code>12-2</code>
-		<sku></sku>
-		<variantcode>2-8</variantcode>
-		<size>L</size>
-		<modelcode>2</modelcode>
-		<color>Wit</color>
-		<productlink><![CDATA[http://172.17.0.9/index.php?id_product=2&controller=product#/size-l/color-wit]]></productlink>
-		<imagelink><![CDATA[http://172.17.0.9/img/p/5/5.jpg]]></imagelink>
-		<imagelink_1><![CDATA[http://172.17.0.9/img/p/6/6.jpg]]></imagelink_1>
-		<imagelink_2><![CDATA[http://172.17.0.9/img/p/7/7.jpg]]></imagelink_2>
-		<category>!Overig</category>
-		<shop_category>Root &gt; Home &gt; Dames &gt; Tops &gt; Blouses</shop_category>
-		<deliveryperiod_nl>Op voorraad</deliveryperiod_nl>
-		<shippingcost_nl>6.05</shippingcost_nl>
-		<deliveryperiod_be>Op voorraad</deliveryperiod_be>
-		<shippingcost_be>0</shippingcost_be>
-		<eancode></eancode>
-		<description><![CDATA[\\nBlouse met korte mouwen en gedrapeerd detail.\\n]]></description>
-		<display>1</display>
-		<brand><![CDATA[Fashion Manufacturer]]></brand>
-		<samenstellingen><![CDATA[Katoen]]></samenstellingen>
-		<stijlen><![CDATA[Casual]]></stijlen>
-		<eigenschappen><![CDATA[Korte mouwen]]></eigenschappen>
-		<size><![CDATA[L]]></size>
-		<color><![CDATA[Wit]]></color>
-		<condition>Nieuw</condition>
-	</product>
-	<product>
-		<title><![CDATA[Bedrukte Jurk]]></title>
-		<price>31,46</price>
-		<code>13-3</code>
-		<sku></sku>
-		<variantcode>3-13</variantcode>
-		<size>S</size>
-		<modelcode>3</modelcode>
-		<color>Oranje</color>
-		<productlink><![CDATA[http://172.17.0.9/index.php?id_product=3&controller=product#/size-s/color-oranje]]></productlink>
-		<imagelink><![CDATA[http://172.17.0.9/img/p/8/8.jpg]]></imagelink>
-		<imagelink_1><![CDATA[http://172.17.0.9/img/p/9/9.jpg]]></imagelink_1>
-		<category>!Overig</category>
-		<shop_category>Root &gt; Home &gt; Dames &gt; Jurken &gt; Casual Jurken</shop_category>
-		<deliveryperiod_nl>Op voorraad</deliveryperiod_nl>
-		<shippingcost_nl>6.05</shippingcost_nl>
-		<deliveryperiod_be>Op voorraad</deliveryperiod_be>
-		<shippingcost_be>0</shippingcost_be>
-		<eancode></eancode>
-		<description><![CDATA[\\n100% katoen dubbel bedrukte jurk. Zwart-wit gestreepte top en oranje rok met hoge taille.\\n]]></description>
-		<display>1</display>
-		<brand><![CDATA[Fashion Manufacturer]]></brand>
-		<samenstellingen><![CDATA[Katoen]]></samenstellingen>
-		<stijlen><![CDATA[Meisjesachtig]]></stijlen>
-		<eigenschappen><![CDATA[Kleurige jurk]]></eigenschappen>
-		<size><![CDATA[S]]></size>
-		<color><![CDATA[Oranje]]></color>
-		<condition>Nieuw</condition>
-	</product>
-	<product>
-		<title><![CDATA[Bedrukte Jurk]]></title>
-		<price>31,46</price>
-		<code>14-3</code>
-		<sku></sku>
-		<variantcode>3-13</variantcode>
-		<size>M</size>
-		<modelcode>3</modelcode>
-		<color>Oranje</color>
-		<productlink><![CDATA[http://172.17.0.9/index.php?id_product=3&controller=product#/size-m/color-oranje]]></productlink>
-		<imagelink><![CDATA[http://172.17.0.9/img/p/8/8.jpg]]></imagelink>
-		<imagelink_1><![CDATA[http://172.17.0.9/img/p/9/9.jpg]]></imagelink_1>
-		<category>!Overig</category>
-		<shop_category>Root &gt; Home &gt; Dames &gt; Jurken &gt; Casual Jurken</shop_category>
-		<deliveryperiod_nl>Op voorraad</deliveryperiod_nl>
-		<shippingcost_nl>6.05</shippingcost_nl>
-		<deliveryperiod_be>Op voorraad</deliveryperiod_be>
-		<shippingcost_be>0</shippingcost_be>
-		<eancode></eancode>
-		<description><![CDATA[\\n100% katoen dubbel bedrukte jurk. Zwart-wit gestreepte top en oranje rok met hoge taille.\\n]]></description>
-		<display>1</display>
-		<brand><![CDATA[Fashion Manufacturer]]></brand>
-		<samenstellingen><![CDATA[Katoen]]></samenstellingen>
-		<stijlen><![CDATA[Meisjesachtig]]></stijlen>
-		<eigenschappen><![CDATA[Kleurige jurk]]></eigenschappen>
-		<size><![CDATA[M]]></size>
-		<color><![CDATA[Oranje]]></color>
-		<condition>Nieuw</condition>
-	</product>
-	<product>
-		<title><![CDATA[Bedrukte Jurk]]></title>
-		<price>31,46</price>
-		<code>15-3</code>
-		<sku></sku>
-		<variantcode>3-13</variantcode>
-		<size>L</size>
-		<modelcode>3</modelcode>
-		<color>Oranje</color>
-		<productlink><![CDATA[http://172.17.0.9/index.php?id_product=3&controller=product#/size-l/color-oranje]]></productlink>
-		<imagelink><![CDATA[http://172.17.0.9/img/p/8/8.jpg]]></imagelink>
-		<imagelink_1><![CDATA[http://172.17.0.9/img/p/9/9.jpg]]></imagelink_1>
-		<category>!Overig</category>
-		<shop_category>Root &gt; Home &gt; Dames &gt; Jurken &gt; Casual Jurken</shop_category>
-		<deliveryperiod_nl>Op voorraad</deliveryperiod_nl>
-		<shippingcost_nl>6.05</shippingcost_nl>
-		<deliveryperiod_be>Op voorraad</deliveryperiod_be>
-		<shippingcost_be>0</shippingcost_be>
-		<eancode></eancode>
-		<description><![CDATA[\\n100% katoen dubbel bedrukte jurk. Zwart-wit gestreepte top en oranje rok met hoge taille.\\n]]></description>
-		<display>1</display>
-		<brand><![CDATA[Fashion Manufacturer]]></brand>
-		<samenstellingen><![CDATA[Katoen]]></samenstellingen>
-		<stijlen><![CDATA[Meisjesachtig]]></stijlen>
-		<eigenschappen><![CDATA[Kleurige jurk]]></eigenschappen>
-		<size><![CDATA[L]]></size>
-		<color><![CDATA[Oranje]]></color>
-		<condition>Nieuw</condition>
-	</product>
-	<product>
-		<title><![CDATA[Bedrukte Jurk]]></title>
-		<price>61,70</price>
-		<code>16-4</code>
-		<sku></sku>
-		<variantcode>4-7</variantcode>
-		<size>S</size>
-		<modelcode>4</modelcode>
-		<color>Beige</color>
-		<productlink><![CDATA[http://172.17.0.9/index.php?id_product=4&controller=product#/size-s/color-beige]]></productlink>
-		<imagelink><![CDATA[http://172.17.0.9/img/p/1/0/10.jpg]]></imagelink>
-		<imagelink_1><![CDATA[http://172.17.0.9/img/p/1/1/11.jpg]]></imagelink_1>
-		<category>!Overig</category>
-		<shop_category>Root &gt; Home &gt; Dames &gt; Jurken &gt; Avondjurken</shop_category>
-		<deliveryperiod_nl>Op voorraad</deliveryperiod_nl>
-		<shippingcost_nl>6.05</shippingcost_nl>
-		<deliveryperiod_be>Op voorraad</deliveryperiod_be>
-		<shippingcost_be>0</shippingcost_be>
-		<eancode></eancode>
-		<description><![CDATA[\\nBedrukte avondjurk met rechte mouwen, dunne zwarte riem en gelaagde rok.\\n]]></description>
-		<display>1</display>
-		<brand><![CDATA[Fashion Manufacturer]]></brand>
-		<samenstellingen><![CDATA[Viscose]]></samenstellingen>
-		<stijlen><![CDATA[Dressy]]></stijlen>
-		<eigenschappen><![CDATA[Korte jurk]]></eigenschappen>
-		<size><![CDATA[S]]></size>
-		<color><![CDATA[Beige]]></color>
-		<condition>Nieuw</condition>
-	</product>
-	<product>
-		<title><![CDATA[Bedrukte Jurk]]></title>
-		<price>61,70</price>
-		<code>17-4</code>
-		<sku></sku>
-		<variantcode>4-7</variantcode>
-		<size>M</size>
-		<modelcode>4</modelcode>
-		<color>Beige</color>
-		<productlink><![CDATA[http://172.17.0.9/index.php?id_product=4&controller=product#/size-m/color-beige]]></productlink>
-		<imagelink><![CDATA[http://172.17.0.9/img/p/1/0/10.jpg]]></imagelink>
-		<imagelink_1><![CDATA[http://172.17.0.9/img/p/1/1/11.jpg]]></imagelink_1>
-		<category>!Overig</category>
-		<shop_category>Root &gt; Home &gt; Dames &gt; Jurken &gt; Avondjurken</shop_category>
-		<deliveryperiod_nl>Op voorraad</deliveryperiod_nl>
-		<shippingcost_nl>6.05</shippingcost_nl>
-		<deliveryperiod_be>Op voorraad</deliveryperiod_be>
-		<shippingcost_be>0</shippingcost_be>
-		<eancode></eancode>
-		<description><![CDATA[\\nBedrukte avondjurk met rechte mouwen, dunne zwarte riem en gelaagde rok.\\n]]></description>
-		<display>1</display>
-		<brand><![CDATA[Fashion Manufacturer]]></brand>
-		<samenstellingen><![CDATA[Viscose]]></samenstellingen>
-		<stijlen><![CDATA[Dressy]]></stijlen>
-		<eigenschappen><![CDATA[Korte jurk]]></eigenschappen>
-		<size><![CDATA[M]]></size>
-		<color><![CDATA[Beige]]></color>
-		<condition>Nieuw</condition>
-	</product>
-	<product>
-		<title><![CDATA[Bedrukte Jurk]]></title>
-		<price>61,70</price>
-		<code>18-4</code>
-		<sku></sku>
-		<variantcode>4-7</variantcode>
-		<size>L</size>
-		<modelcode>4</modelcode>
-		<color>Beige</color>
-		<productlink><![CDATA[http://172.17.0.9/index.php?id_product=4&controller=product#/size-l/color-beige]]></productlink>
-		<imagelink><![CDATA[http://172.17.0.9/img/p/1/0/10.jpg]]></imagelink>
-		<imagelink_1><![CDATA[http://172.17.0.9/img/p/1/1/11.jpg]]></imagelink_1>
-		<category>!Overig</category>
-		<shop_category>Root &gt; Home &gt; Dames &gt; Jurken &gt; Avondjurken</shop_category>
-		<deliveryperiod_nl>Op voorraad</deliveryperiod_nl>
-		<shippingcost_nl>6.05</shippingcost_nl>
-		<deliveryperiod_be>Op voorraad</deliveryperiod_be>
-		<shippingcost_be>0</shippingcost_be>
-		<eancode></eancode>
-		<description><![CDATA[\\nBedrukte avondjurk met rechte mouwen, dunne zwarte riem en gelaagde rok.\\n]]></description>
-		<display>1</display>
-		<brand><![CDATA[Fashion Manufacturer]]></brand>
-		<samenstellingen><![CDATA[Viscose]]></samenstellingen>
-		<stijlen><![CDATA[Dressy]]></stijlen>
-		<eigenschappen><![CDATA[Korte jurk]]></eigenschappen>
-		<size><![CDATA[L]]></size>
-		<color><![CDATA[Beige]]></color>
-		<condition>Nieuw</condition>
-	</product>
-	<product>
-		<title><![CDATA[Bedrukte Jurk]]></title>
-		<price>61,70</price>
-		<code>43-4</code>
-		<sku></sku>
-		<variantcode>4-24</variantcode>
-		<size>S</size>
-		<modelcode>4</modelcode>
-		<color>Roze</color>
-		<productlink><![CDATA[http://172.17.0.9/index.php?id_product=4&controller=product#/size-s/color-roze]]></productlink>
-		<imagelink_1><![CDATA[http://172.17.0.9/img/p/1/0/10.jpg]]></imagelink_1>
-		<imagelink><![CDATA[http://172.17.0.9/img/p/1/1/11.jpg]]></imagelink>
-		<category>!Overig</category>
-		<shop_category>Root &gt; Home &gt; Dames &gt; Jurken &gt; Avondjurken</shop_category>
-		<deliveryperiod_nl>Niet op voorraad</deliveryperiod_nl>
-		<shippingcost_nl>6.05</shippingcost_nl>
-		<deliveryperiod_be>Niet op voorraad</deliveryperiod_be>
-		<shippingcost_be>0</shippingcost_be>
-		<eancode></eancode>
-		<description><![CDATA[\\nBedrukte avondjurk met rechte mouwen, dunne zwarte riem en gelaagde rok.\\n]]></description>
-		<display>0</display>
-		<brand><![CDATA[Fashion Manufacturer]]></brand>
-		<samenstellingen><![CDATA[Viscose]]></samenstellingen>
-		<stijlen><![CDATA[Dressy]]></stijlen>
-		<eigenschappen><![CDATA[Korte jurk]]></eigenschappen>
-		<size><![CDATA[S]]></size>
-		<color><![CDATA[Roze]]></color>
-		<condition>Nieuw</condition>
-	</product>
-	<product>
-		<title><![CDATA[Bedrukte Jurk]]></title>
-		<price>61,70</price>
-		<code>44-4</code>
-		<sku></sku>
-		<variantcode>4-24</variantcode>
-		<size>M</size>
-		<modelcode>4</modelcode>
-		<color>Roze</color>
-		<productlink><![CDATA[http://172.17.0.9/index.php?id_product=4&controller=product#/size-m/color-roze]]></productlink>
-		<imagelink_1><![CDATA[http://172.17.0.9/img/p/1/0/10.jpg]]></imagelink_1>
-		<imagelink><![CDATA[http://172.17.0.9/img/p/1/1/11.jpg]]></imagelink>
-		<category>!Overig</category>
-		<shop_category>Root &gt; Home &gt; Dames &gt; Jurken &gt; Avondjurken</shop_category>
-		<deliveryperiod_nl>Niet op voorraad</deliveryperiod_nl>
-		<shippingcost_nl>6.05</shippingcost_nl>
-		<deliveryperiod_be>Niet op voorraad</deliveryperiod_be>
-		<shippingcost_be>0</shippingcost_be>
-		<eancode></eancode>
-		<description><![CDATA[\\nBedrukte avondjurk met rechte mouwen, dunne zwarte riem en gelaagde rok.\\n]]></description>
-		<display>0</display>
-		<brand><![CDATA[Fashion Manufacturer]]></brand>
-		<samenstellingen><![CDATA[Viscose]]></samenstellingen>
-		<stijlen><![CDATA[Dressy]]></stijlen>
-		<eigenschappen><![CDATA[Korte jurk]]></eigenschappen>
-		<size><![CDATA[M]]></size>
-		<color><![CDATA[Roze]]></color>
-		<condition>Nieuw</condition>
-	</product>
-	<product>
-		<title><![CDATA[Bedrukte Jurk]]></title>
-		<price>61,70</price>
-		<code>45-4</code>
-		<sku></sku>
-		<variantcode>4-24</variantcode>
-		<size>L</size>
-		<modelcode>4</modelcode>
-		<color>Roze</color>
-		<productlink><![CDATA[http://172.17.0.9/index.php?id_product=4&controller=product#/size-l/color-roze]]></productlink>
-		<imagelink_1><![CDATA[http://172.17.0.9/img/p/1/0/10.jpg]]></imagelink_1>
-		<imagelink><![CDATA[http://172.17.0.9/img/p/1/1/11.jpg]]></imagelink>
-		<category>!Overig</category>
-		<shop_category>Root &gt; Home &gt; Dames &gt; Jurken &gt; Avondjurken</shop_category>
-		<deliveryperiod_nl>Niet op voorraad</deliveryperiod_nl>
-		<shippingcost_nl>6.05</shippingcost_nl>
-		<deliveryperiod_be>Niet op voorraad</deliveryperiod_be>
-		<shippingcost_be>0</shippingcost_be>
-		<eancode></eancode>
-		<description><![CDATA[\\nBedrukte avondjurk met rechte mouwen, dunne zwarte riem en gelaagde rok.\\n]]></description>
-		<display>0</display>
-		<brand><![CDATA[Fashion Manufacturer]]></brand>
-		<samenstellingen><![CDATA[Viscose]]></samenstellingen>
-		<stijlen><![CDATA[Dressy]]></stijlen>
-		<eigenschappen><![CDATA[Korte jurk]]></eigenschappen>
-		<size><![CDATA[L]]></size>
-		<color><![CDATA[Roze]]></color>
-		<condition>Nieuw</condition>
-	</product>
-	<product>
-		<title><![CDATA[Bedrukte Zomerjurk]]></title>
-		<price>35,07</price>
-		<price_old>36,91</price_old>
-		<code>19-5</code>
-		<sku></sku>
-		<variantcode>5-16</variantcode>
-		<size>S</size>
-		<modelcode>5</modelcode>
-		<color>Geel</color>
-		<productlink><![CDATA[http://172.17.0.9/index.php?id_product=5&controller=product#/size-s/color-geel]]></productlink>
-		<imagelink><![CDATA[http://172.17.0.9/img/p/1/2/12.jpg]]></imagelink>
-		<imagelink_1><![CDATA[http://172.17.0.9/img/p/1/3/13.jpg]]></imagelink_1>
-		<imagelink_2><![CDATA[http://172.17.0.9/img/p/1/4/14.jpg]]></imagelink_2>
-		<imagelink_3><![CDATA[http://172.17.0.9/img/p/1/5/15.jpg]]></imagelink_3>
-		<category>!Overig</category>
-		<shop_category>Root &gt; Home &gt; Dames &gt; Jurken &gt; Zomerjurken</shop_category>
-		<deliveryperiod_nl>Op voorraad</deliveryperiod_nl>
-		<shippingcost_nl>6.05</shippingcost_nl>
-		<deliveryperiod_be>Op voorraad</deliveryperiod_be>
-		<shippingcost_be>0</shippingcost_be>
-		<eancode></eancode>
-		<description><![CDATA[\\nLange bedrukte jurk met smalle verstelbare bandjes. V-hals en gesmokte bies onder de buste. Ruches aan de onderkant.\\n]]></description>
-		<display>1</display>
-		<brand><![CDATA[Fashion Manufacturer]]></brand>
-		<samenstellingen><![CDATA[Viscose]]></samenstellingen>
-		<stijlen><![CDATA[Casual]]></stijlen>
-		<eigenschappen><![CDATA[Maxi jurk]]></eigenschappen>
-		<size><![CDATA[S]]></size>
-		<color><![CDATA[Geel]]></color>
-		<condition>Nieuw</condition>
-	</product>
-	<product>
-		<title><![CDATA[Bedrukte Zomerjurk]]></title>
-		<price>35,07</price>
-		<price_old>36,91</price_old>
-		<code>20-5</code>
-		<sku></sku>
-		<variantcode>5-14</variantcode>
-		<size>S</size>
-		<modelcode>5</modelcode>
-		<color>Blauw</color>
-		<productlink><![CDATA[http://172.17.0.9/index.php?id_product=5&controller=product#/size-s/color-blauw]]></productlink>
-		<imagelink_1><![CDATA[http://172.17.0.9/img/p/1/2/12.jpg]]></imagelink_1>
-		<imagelink><![CDATA[http://172.17.0.9/img/p/1/3/13.jpg]]></imagelink>
-		<imagelink_2><![CDATA[http://172.17.0.9/img/p/1/4/14.jpg]]></imagelink_2>
-		<imagelink_3><![CDATA[http://172.17.0.9/img/p/1/5/15.jpg]]></imagelink_3>
-		<category>!Overig</category>
-		<shop_category>Root &gt; Home &gt; Dames &gt; Jurken &gt; Zomerjurken</shop_category>
-		<deliveryperiod_nl>Op voorraad</deliveryperiod_nl>
-		<shippingcost_nl>6.05</shippingcost_nl>
-		<deliveryperiod_be>Op voorraad</deliveryperiod_be>
-		<shippingcost_be>0</shippingcost_be>
-		<eancode></eancode>
-		<description><![CDATA[\\nLange bedrukte jurk met smalle verstelbare bandjes. V-hals en gesmokte bies onder de buste. Ruches aan de onderkant.\\n]]></description>
-		<display>1</display>
-		<brand><![CDATA[Fashion Manufacturer]]></brand>
-		<samenstellingen><![CDATA[Viscose]]></samenstellingen>
-		<stijlen><![CDATA[Casual]]></stijlen>
-		<eigenschappen><![CDATA[Maxi jurk]]></eigenschappen>
-		<size><![CDATA[S]]></size>
-		<color><![CDATA[Blauw]]></color>
-		<condition>Nieuw</condition>
-	</product>
-	<product>
-		<title><![CDATA[Bedrukte Zomerjurk]]></title>
-		<price>35,07</price>
-		<price_old>36,91</price_old>
-		<code>21-5</code>
-		<sku></sku>
-		<variantcode>5-13</variantcode>
-		<size>S</size>
-		<modelcode>5</modelcode>
-		<color>Oranje</color>
-		<productlink><![CDATA[http://172.17.0.9/index.php?id_product=5&controller=product#/size-s/color-oranje]]></productlink>
-		<imagelink_1><![CDATA[http://172.17.0.9/img/p/1/2/12.jpg]]></imagelink_1>
-		<imagelink_2><![CDATA[http://172.17.0.9/img/p/1/3/13.jpg]]></imagelink_2>
-		<imagelink><![CDATA[http://172.17.0.9/img/p/1/4/14.jpg]]></imagelink>
-		<imagelink_3><![CDATA[http://172.17.0.9/img/p/1/5/15.jpg]]></imagelink_3>
-		<category>!Overig</category>
-		<shop_category>Root &gt; Home &gt; Dames &gt; Jurken &gt; Zomerjurken</shop_category>
-		<deliveryperiod_nl>Op voorraad</deliveryperiod_nl>
-		<shippingcost_nl>6.05</shippingcost_nl>
-		<deliveryperiod_be>Op voorraad</deliveryperiod_be>
-		<shippingcost_be>0</shippingcost_be>
-		<eancode></eancode>
-		<description><![CDATA[\\nLange bedrukte jurk met smalle verstelbare bandjes. V-hals en gesmokte bies onder de buste. Ruches aan de onderkant.\\n]]></description>
-		<display>1</display>
-		<brand><![CDATA[Fashion Manufacturer]]></brand>
-		<samenstellingen><![CDATA[Viscose]]></samenstellingen>
-		<stijlen><![CDATA[Casual]]></stijlen>
-		<eigenschappen><![CDATA[Maxi jurk]]></eigenschappen>
-		<size><![CDATA[S]]></size>
-		<color><![CDATA[Oranje]]></color>
-		<condition>Nieuw</condition>
-	</product>
-	<product>
-		<title><![CDATA[Bedrukte Zomerjurk]]></title>
-		<price>35,07</price>
-		<price_old>36,91</price_old>
-		<code>22-5</code>
-		<sku></sku>
-		<variantcode>5-11</variantcode>
-		<size>S</size>
-		<modelcode>5</modelcode>
-		<color>Zwart</color>
-		<productlink><![CDATA[http://172.17.0.9/index.php?id_product=5&controller=product#/size-s/color-zwart]]></productlink>
-		<imagelink_1><![CDATA[http://172.17.0.9/img/p/1/2/12.jpg]]></imagelink_1>
-		<imagelink_2><![CDATA[http://172.17.0.9/img/p/1/3/13.jpg]]></imagelink_2>
-		<imagelink_3><![CDATA[http://172.17.0.9/img/p/1/4/14.jpg]]></imagelink_3>
-		<imagelink><![CDATA[http://172.17.0.9/img/p/1/5/15.jpg]]></imagelink>
-		<category>!Overig</category>
-		<shop_category>Root &gt; Home &gt; Dames &gt; Jurken &gt; Zomerjurken</shop_category>
-		<deliveryperiod_nl>Op voorraad</deliveryperiod_nl>
-		<shippingcost_nl>6.05</shippingcost_nl>
-		<deliveryperiod_be>Op voorraad</deliveryperiod_be>
-		<shippingcost_be>0</shippingcost_be>
-		<eancode></eancode>
-		<description><![CDATA[\\nLange bedrukte jurk met smalle verstelbare bandjes. V-hals en gesmokte bies onder de buste. Ruches aan de onderkant.\\n]]></description>
-		<display>1</display>
-		<brand><![CDATA[Fashion Manufacturer]]></brand>
-		<samenstellingen><![CDATA[Viscose]]></samenstellingen>
-		<stijlen><![CDATA[Casual]]></stijlen>
-		<eigenschappen><![CDATA[Maxi jurk]]></eigenschappen>
-		<size><![CDATA[S]]></size>
-		<color><![CDATA[Zwart]]></color>
-		<condition>Nieuw</condition>
-	</product>
-	<product>
-		<title><![CDATA[Bedrukte Zomerjurk]]></title>
-		<price>35,07</price>
-		<price_old>36,91</price_old>
-		<code>23-5</code>
-		<sku></sku>
-		<variantcode>5-16</variantcode>
-		<size>M</size>
-		<modelcode>5</modelcode>
-		<color>Geel</color>
-		<productlink><![CDATA[http://172.17.0.9/index.php?id_product=5&controller=product#/size-m/color-geel]]></productlink>
-		<imagelink><![CDATA[http://172.17.0.9/img/p/1/2/12.jpg]]></imagelink>
-		<imagelink_1><![CDATA[http://172.17.0.9/img/p/1/3/13.jpg]]></imagelink_1>
-		<imagelink_2><![CDATA[http://172.17.0.9/img/p/1/4/14.jpg]]></imagelink_2>
-		<imagelink_3><![CDATA[http://172.17.0.9/img/p/1/5/15.jpg]]></imagelink_3>
-		<category>!Overig</category>
-		<shop_category>Root &gt; Home &gt; Dames &gt; Jurken &gt; Zomerjurken</shop_category>
-		<deliveryperiod_nl>Op voorraad</deliveryperiod_nl>
-		<shippingcost_nl>6.05</shippingcost_nl>
-		<deliveryperiod_be>Op voorraad</deliveryperiod_be>
-		<shippingcost_be>0</shippingcost_be>
-		<eancode></eancode>
-		<description><![CDATA[\\nLange bedrukte jurk met smalle verstelbare bandjes. V-hals en gesmokte bies onder de buste. Ruches aan de onderkant.\\n]]></description>
-		<display>1</display>
-		<brand><![CDATA[Fashion Manufacturer]]></brand>
-		<samenstellingen><![CDATA[Viscose]]></samenstellingen>
-		<stijlen><![CDATA[Casual]]></stijlen>
-		<eigenschappen><![CDATA[Maxi jurk]]></eigenschappen>
-		<size><![CDATA[M]]></size>
-		<color><![CDATA[Geel]]></color>
-		<condition>Nieuw</condition>
-	</product>
-	<product>
-		<title><![CDATA[Bedrukte Zomerjurk]]></title>
-		<price>35,07</price>
-		<price_old>36,91</price_old>
-		<code>24-5</code>
-		<sku></sku>
-		<variantcode>5-14</variantcode>
-		<size>M</size>
-		<modelcode>5</modelcode>
-		<color>Blauw</color>
-		<productlink><![CDATA[http://172.17.0.9/index.php?id_product=5&controller=product#/size-m/color-blauw]]></productlink>
-		<imagelink_1><![CDATA[http://172.17.0.9/img/p/1/2/12.jpg]]></imagelink_1>
-		<imagelink><![CDATA[http://172.17.0.9/img/p/1/3/13.jpg]]></imagelink>
-		<imagelink_2><![CDATA[http://172.17.0.9/img/p/1/4/14.jpg]]></imagelink_2>
-		<imagelink_3><![CDATA[http://172.17.0.9/img/p/1/5/15.jpg]]></imagelink_3>
-		<category>!Overig</category>
-		<shop_category>Root &gt; Home &gt; Dames &gt; Jurken &gt; Zomerjurken</shop_category>
-		<deliveryperiod_nl>Op voorraad</deliveryperiod_nl>
-		<shippingcost_nl>6.05</shippingcost_nl>
-		<deliveryperiod_be>Op voorraad</deliveryperiod_be>
-		<shippingcost_be>0</shippingcost_be>
-		<eancode></eancode>
-		<description><![CDATA[\\nLange bedrukte jurk met smalle verstelbare bandjes. V-hals en gesmokte bies onder de buste. Ruches aan de onderkant.\\n]]></description>
-		<display>1</display>
-		<brand><![CDATA[Fashion Manufacturer]]></brand>
-		<samenstellingen><![CDATA[Viscose]]></samenstellingen>
-		<stijlen><![CDATA[Casual]]></stijlen>
-		<eigenschappen><![CDATA[Maxi jurk]]></eigenschappen>
-		<size><![CDATA[M]]></size>
-		<color><![CDATA[Blauw]]></color>
-		<condition>Nieuw</condition>
-	</product>
-	<product>
-		<title><![CDATA[Bedrukte Zomerjurk]]></title>
-		<price>35,07</price>
-		<price_old>36,91</price_old>
-		<code>25-5</code>
-		<sku></sku>
-		<variantcode>5-13</variantcode>
-		<size>M</size>
-		<modelcode>5</modelcode>
-		<color>Oranje</color>
-		<productlink><![CDATA[http://172.17.0.9/index.php?id_product=5&controller=product#/size-m/color-oranje]]></productlink>
-		<imagelink_1><![CDATA[http://172.17.0.9/img/p/1/2/12.jpg]]></imagelink_1>
-		<imagelink_2><![CDATA[http://172.17.0.9/img/p/1/3/13.jpg]]></imagelink_2>
-		<imagelink><![CDATA[http://172.17.0.9/img/p/1/4/14.jpg]]></imagelink>
-		<imagelink_3><![CDATA[http://172.17.0.9/img/p/1/5/15.jpg]]></imagelink_3>
-		<category>!Overig</category>
-		<shop_category>Root &gt; Home &gt; Dames &gt; Jurken &gt; Zomerjurken</shop_category>
-		<deliveryperiod_nl>Op voorraad</deliveryperiod_nl>
-		<shippingcost_nl>6.05</shippingcost_nl>
-		<deliveryperiod_be>Op voorraad</deliveryperiod_be>
-		<shippingcost_be>0</shippingcost_be>
-		<eancode></eancode>
-		<description><![CDATA[\\nLange bedrukte jurk met smalle verstelbare bandjes. V-hals en gesmokte bies onder de buste. Ruches aan de onderkant.\\n]]></description>
-		<display>1</display>
-		<brand><![CDATA[Fashion Manufacturer]]></brand>
-		<samenstellingen><![CDATA[Viscose]]></samenstellingen>
-		<stijlen><![CDATA[Casual]]></stijlen>
-		<eigenschappen><![CDATA[Maxi jurk]]></eigenschappen>
-		<size><![CDATA[M]]></size>
-		<color><![CDATA[Oranje]]></color>
-		<condition>Nieuw</condition>
-	</product>
-	<product>
-		<title><![CDATA[Bedrukte Zomerjurk]]></title>
-		<price>35,07</price>
-		<price_old>36,91</price_old>
-		<code>26-5</code>
-		<sku></sku>
-		<variantcode>5-11</variantcode>
-		<size>M</size>
-		<modelcode>5</modelcode>
-		<color>Zwart</color>
-		<productlink><![CDATA[http://172.17.0.9/index.php?id_product=5&controller=product#/size-m/color-zwart]]></productlink>
-		<imagelink_1><![CDATA[http://172.17.0.9/img/p/1/2/12.jpg]]></imagelink_1>
-		<imagelink_2><![CDATA[http://172.17.0.9/img/p/1/3/13.jpg]]></imagelink_2>
-		<imagelink_3><![CDATA[http://172.17.0.9/img/p/1/4/14.jpg]]></imagelink_3>
-		<imagelink><![CDATA[http://172.17.0.9/img/p/1/5/15.jpg]]></imagelink>
-		<category>!Overig</category>
-		<shop_category>Root &gt; Home &gt; Dames &gt; Jurken &gt; Zomerjurken</shop_category>
-		<deliveryperiod_nl>Op voorraad</deliveryperiod_nl>
-		<shippingcost_nl>6.05</shippingcost_nl>
-		<deliveryperiod_be>Op voorraad</deliveryperiod_be>
-		<shippingcost_be>0</shippingcost_be>
-		<eancode></eancode>
-		<description><![CDATA[\\nLange bedrukte jurk met smalle verstelbare bandjes. V-hals en gesmokte bies onder de buste. Ruches aan de onderkant.\\n]]></description>
-		<display>1</display>
-		<brand><![CDATA[Fashion Manufacturer]]></brand>
-		<samenstellingen><![CDATA[Viscose]]></samenstellingen>
-		<stijlen><![CDATA[Casual]]></stijlen>
-		<eigenschappen><![CDATA[Maxi jurk]]></eigenschappen>
-		<size><![CDATA[M]]></size>
-		<color><![CDATA[Zwart]]></color>
-		<condition>Nieuw</condition>
-	</product>
-	<product>
-		<title><![CDATA[Bedrukte Zomerjurk]]></title>
-		<price>35,07</price>
-		<price_old>36,91</price_old>
-		<code>27-5</code>
-		<sku></sku>
-		<variantcode>5-16</variantcode>
-		<size>L</size>
-		<modelcode>5</modelcode>
-		<color>Geel</color>
-		<productlink><![CDATA[http://172.17.0.9/index.php?id_product=5&controller=product#/size-l/color-geel]]></productlink>
-		<imagelink><![CDATA[http://172.17.0.9/img/p/1/2/12.jpg]]></imagelink>
-		<imagelink_1><![CDATA[http://172.17.0.9/img/p/1/3/13.jpg]]></imagelink_1>
-		<imagelink_2><![CDATA[http://172.17.0.9/img/p/1/4/14.jpg]]></imagelink_2>
-		<imagelink_3><![CDATA[http://172.17.0.9/img/p/1/5/15.jpg]]></imagelink_3>
-		<category>!Overig</category>
-		<shop_category>Root &gt; Home &gt; Dames &gt; Jurken &gt; Zomerjurken</shop_category>
-		<deliveryperiod_nl>Op voorraad</deliveryperiod_nl>
-		<shippingcost_nl>6.05</shippingcost_nl>
-		<deliveryperiod_be>Op voorraad</deliveryperiod_be>
-		<shippingcost_be>0</shippingcost_be>
-		<eancode></eancode>
-		<description><![CDATA[\\nLange bedrukte jurk met smalle verstelbare bandjes. V-hals en gesmokte bies onder de buste. Ruches aan de onderkant.\\n]]></description>
-		<display>1</display>
-		<brand><![CDATA[Fashion Manufacturer]]></brand>
-		<samenstellingen><![CDATA[Viscose]]></samenstellingen>
-		<stijlen><![CDATA[Casual]]></stijlen>
-		<eigenschappen><![CDATA[Maxi jurk]]></eigenschappen>
-		<size><![CDATA[L]]></size>
-		<color><![CDATA[Geel]]></color>
-		<condition>Nieuw</condition>
-	</product>
-	<product>
-		<title><![CDATA[Bedrukte Zomerjurk]]></title>
-		<price>35,07</price>
-		<price_old>36,91</price_old>
-		<code>28-5</code>
-		<sku></sku>
-		<variantcode>5-14</variantcode>
-		<size>L</size>
-		<modelcode>5</modelcode>
-		<color>Blauw</color>
-		<productlink><![CDATA[http://172.17.0.9/index.php?id_product=5&controller=product#/size-l/color-blauw]]></productlink>
-		<imagelink_1><![CDATA[http://172.17.0.9/img/p/1/2/12.jpg]]></imagelink_1>
-		<imagelink><![CDATA[http://172.17.0.9/img/p/1/3/13.jpg]]></imagelink>
-		<imagelink_2><![CDATA[http://172.17.0.9/img/p/1/4/14.jpg]]></imagelink_2>
-		<imagelink_3><![CDATA[http://172.17.0.9/img/p/1/5/15.jpg]]></imagelink_3>
-		<category>!Overig</category>
-		<shop_category>Root &gt; Home &gt; Dames &gt; Jurken &gt; Zomerjurken</shop_category>
-		<deliveryperiod_nl>Op voorraad</deliveryperiod_nl>
-		<shippingcost_nl>6.05</shippingcost_nl>
-		<deliveryperiod_be>Op voorraad</deliveryperiod_be>
-		<shippingcost_be>0</shippingcost_be>
-		<eancode></eancode>
-		<description><![CDATA[\\nLange bedrukte jurk met smalle verstelbare bandjes. V-hals en gesmokte bies onder de buste. Ruches aan de onderkant.\\n]]></description>
-		<display>1</display>
-		<brand><![CDATA[Fashion Manufacturer]]></brand>
-		<samenstellingen><![CDATA[Viscose]]></samenstellingen>
-		<stijlen><![CDATA[Casual]]></stijlen>
-		<eigenschappen><![CDATA[Maxi jurk]]></eigenschappen>
-		<size><![CDATA[L]]></size>
-		<color><![CDATA[Blauw]]></color>
-		<condition>Nieuw</condition>
-	</product>
-	<product>
-		<title><![CDATA[Bedrukte Zomerjurk]]></title>
-		<price>35,07</price>
-		<price_old>36,91</price_old>
-		<code>29-5</code>
-		<sku></sku>
-		<variantcode>5-13</variantcode>
-		<size>L</size>
-		<modelcode>5</modelcode>
-		<color>Oranje</color>
-		<productlink><![CDATA[http://172.17.0.9/index.php?id_product=5&controller=product#/size-l/color-oranje]]></productlink>
-		<imagelink_1><![CDATA[http://172.17.0.9/img/p/1/2/12.jpg]]></imagelink_1>
-		<imagelink_2><![CDATA[http://172.17.0.9/img/p/1/3/13.jpg]]></imagelink_2>
-		<imagelink><![CDATA[http://172.17.0.9/img/p/1/4/14.jpg]]></imagelink>
-		<imagelink_3><![CDATA[http://172.17.0.9/img/p/1/5/15.jpg]]></imagelink_3>
-		<category>!Overig</category>
-		<shop_category>Root &gt; Home &gt; Dames &gt; Jurken &gt; Zomerjurken</shop_category>
-		<deliveryperiod_nl>Op voorraad</deliveryperiod_nl>
-		<shippingcost_nl>6.05</shippingcost_nl>
-		<deliveryperiod_be>Op voorraad</deliveryperiod_be>
-		<shippingcost_be>0</shippingcost_be>
-		<eancode></eancode>
-		<description><![CDATA[\\nLange bedrukte jurk met smalle verstelbare bandjes. V-hals en gesmokte bies onder de buste. Ruches aan de onderkant.\\n]]></description>
-		<display>1</display>
-		<brand><![CDATA[Fashion Manufacturer]]></brand>
-		<samenstellingen><![CDATA[Viscose]]></samenstellingen>
-		<stijlen><![CDATA[Casual]]></stijlen>
-		<eigenschappen><![CDATA[Maxi jurk]]></eigenschappen>
-		<size><![CDATA[L]]></size>
-		<color><![CDATA[Oranje]]></color>
-		<condition>Nieuw</condition>
-	</product>
-	<product>
-		<title><![CDATA[Bedrukte Zomerjurk]]></title>
-		<price>35,07</price>
-		<price_old>36,91</price_old>
-		<code>30-5</code>
-		<sku></sku>
-		<variantcode>5-11</variantcode>
-		<size>L</size>
-		<modelcode>5</modelcode>
-		<color>Zwart</color>
-		<productlink><![CDATA[http://172.17.0.9/index.php?id_product=5&controller=product#/size-l/color-zwart]]></productlink>
-		<imagelink_1><![CDATA[http://172.17.0.9/img/p/1/2/12.jpg]]></imagelink_1>
-		<imagelink_2><![CDATA[http://172.17.0.9/img/p/1/3/13.jpg]]></imagelink_2>
-		<imagelink_3><![CDATA[http://172.17.0.9/img/p/1/4/14.jpg]]></imagelink_3>
-		<imagelink><![CDATA[http://172.17.0.9/img/p/1/5/15.jpg]]></imagelink>
-		<category>!Overig</category>
-		<shop_category>Root &gt; Home &gt; Dames &gt; Jurken &gt; Zomerjurken</shop_category>
-		<deliveryperiod_nl>Op voorraad</deliveryperiod_nl>
-		<shippingcost_nl>6.05</shippingcost_nl>
-		<deliveryperiod_be>Op voorraad</deliveryperiod_be>
-		<shippingcost_be>0</shippingcost_be>
-		<eancode></eancode>
-		<description><![CDATA[\\nLange bedrukte jurk met smalle verstelbare bandjes. V-hals en gesmokte bies onder de buste. Ruches aan de onderkant.\\n]]></description>
-		<display>1</display>
-		<brand><![CDATA[Fashion Manufacturer]]></brand>
-		<samenstellingen><![CDATA[Viscose]]></samenstellingen>
-		<stijlen><![CDATA[Casual]]></stijlen>
-		<eigenschappen><![CDATA[Maxi jurk]]></eigenschappen>
-		<size><![CDATA[L]]></size>
-		<color><![CDATA[Zwart]]></color>
-		<condition>Nieuw</condition>
-	</product>
-	<product>
-		<title><![CDATA[Bedrukte Zomerjurk]]></title>
-		<price>36,91</price>
-		<code>31-6</code>
-		<sku></sku>
-		<variantcode>6-16</variantcode>
-		<size>S</size>
-		<modelcode>6</modelcode>
-		<color>Geel</color>
-		<productlink><![CDATA[http://172.17.0.9/index.php?id_product=6&controller=product#/size-s/color-geel]]></productlink>
-		<imagelink><![CDATA[http://172.17.0.9/img/p/1/6/16.jpg]]></imagelink>
-		<imagelink_1><![CDATA[http://172.17.0.9/img/p/1/7/17.jpg]]></imagelink_1>
-		<imagelink_2><![CDATA[http://172.17.0.9/img/p/1/8/18.jpg]]></imagelink_2>
-		<imagelink_3><![CDATA[http://172.17.0.9/img/p/1/9/19.jpg]]></imagelink_3>
-		<category>!Overig</category>
-		<shop_category>Root &gt; Home &gt; Dames &gt; Jurken &gt; Zomerjurken</shop_category>
-		<deliveryperiod_nl>Op voorraad</deliveryperiod_nl>
-		<shippingcost_nl>6.05</shippingcost_nl>
-		<deliveryperiod_be>Op voorraad</deliveryperiod_be>
-		<shippingcost_be>0</shippingcost_be>
-		<eancode></eancode>
-		<description><![CDATA[\\nMouwloos jurkje van chiffon tot op de knie. V-hals en elastische inzet onder de buste.\\n]]></description>
-		<display>1</display>
-		<brand><![CDATA[Fashion Manufacturer]]></brand>
-		<samenstellingen><![CDATA[Polyester]]></samenstellingen>
-		<stijlen><![CDATA[Meisjesachtig]]></stijlen>
-		<eigenschappen><![CDATA[Korte jurk]]></eigenschappen>
-		<size><![CDATA[S]]></size>
-		<color><![CDATA[Geel]]></color>
-		<condition>Nieuw</condition>
-	</product>
-	<product>
-		<title><![CDATA[Bedrukte Zomerjurk]]></title>
-		<price>36,91</price>
-		<code>32-6</code>
-		<sku></sku>
-		<variantcode>6-16</variantcode>
-		<size>M</size>
-		<modelcode>6</modelcode>
-		<color>Geel</color>
-		<productlink><![CDATA[http://172.17.0.9/index.php?id_product=6&controller=product#/size-m/color-geel]]></productlink>
-		<imagelink><![CDATA[http://172.17.0.9/img/p/1/6/16.jpg]]></imagelink>
-		<imagelink_1><![CDATA[http://172.17.0.9/img/p/1/7/17.jpg]]></imagelink_1>
-		<imagelink_2><![CDATA[http://172.17.0.9/img/p/1/8/18.jpg]]></imagelink_2>
-		<imagelink_3><![CDATA[http://172.17.0.9/img/p/1/9/19.jpg]]></imagelink_3>
-		<category>!Overig</category>
-		<shop_category>Root &gt; Home &gt; Dames &gt; Jurken &gt; Zomerjurken</shop_category>
-		<deliveryperiod_nl>Op voorraad</deliveryperiod_nl>
-		<shippingcost_nl>6.05</shippingcost_nl>
-		<deliveryperiod_be>Op voorraad</deliveryperiod_be>
-		<shippingcost_be>0</shippingcost_be>
-		<eancode></eancode>
-		<description><![CDATA[\\nMouwloos jurkje van chiffon tot op de knie. V-hals en elastische inzet onder de buste.\\n]]></description>
-		<display>1</display>
-		<brand><![CDATA[Fashion Manufacturer]]></brand>
-		<samenstellingen><![CDATA[Polyester]]></samenstellingen>
-		<stijlen><![CDATA[Meisjesachtig]]></stijlen>
-		<eigenschappen><![CDATA[Korte jurk]]></eigenschappen>
-		<size><![CDATA[M]]></size>
-		<color><![CDATA[Geel]]></color>
-		<condition>Nieuw</condition>
-	</product>
-	<product>
-		<title><![CDATA[Bedrukte Zomerjurk]]></title>
-		<price>36,91</price>
-		<code>33-6</code>
-		<sku></sku>
-		<variantcode>6-16</variantcode>
-		<size>L</size>
-		<modelcode>6</modelcode>
-		<color>Geel</color>
-		<productlink><![CDATA[http://172.17.0.9/index.php?id_product=6&controller=product#/size-l/color-geel]]></productlink>
-		<imagelink><![CDATA[http://172.17.0.9/img/p/1/6/16.jpg]]></imagelink>
-		<imagelink_1><![CDATA[http://172.17.0.9/img/p/1/7/17.jpg]]></imagelink_1>
-		<imagelink_2><![CDATA[http://172.17.0.9/img/p/1/8/18.jpg]]></imagelink_2>
-		<imagelink_3><![CDATA[http://172.17.0.9/img/p/1/9/19.jpg]]></imagelink_3>
-		<category>!Overig</category>
-		<shop_category>Root &gt; Home &gt; Dames &gt; Jurken &gt; Zomerjurken</shop_category>
-		<deliveryperiod_nl>Op voorraad</deliveryperiod_nl>
-		<shippingcost_nl>6.05</shippingcost_nl>
-		<deliveryperiod_be>Op voorraad</deliveryperiod_be>
-		<shippingcost_be>0</shippingcost_be>
-		<eancode></eancode>
-		<description><![CDATA[\\nMouwloos jurkje van chiffon tot op de knie. V-hals en elastische inzet onder de buste.\\n]]></description>
-		<display>1</display>
-		<brand><![CDATA[Fashion Manufacturer]]></brand>
-		<samenstellingen><![CDATA[Polyester]]></samenstellingen>
-		<stijlen><![CDATA[Meisjesachtig]]></stijlen>
-		<eigenschappen><![CDATA[Korte jurk]]></eigenschappen>
-		<size><![CDATA[L]]></size>
-		<color><![CDATA[Geel]]></color>
-		<condition>Nieuw</condition>
-	</product>
-	<product>
-		<title><![CDATA[Bedrukte Zomerjurk]]></title>
-		<price>36,91</price>
-		<code>40-6</code>
-		<sku></sku>
-		<variantcode>6-8</variantcode>
-		<size>S</size>
-		<modelcode>6</modelcode>
-		<color>Wit</color>
-		<productlink><![CDATA[http://172.17.0.9/index.php?id_product=6&controller=product#/size-s/color-wit]]></productlink>
-		<imagelink_1><![CDATA[http://172.17.0.9/img/p/1/6/16.jpg]]></imagelink_1>
-		<imagelink_2><![CDATA[http://172.17.0.9/img/p/1/7/17.jpg]]></imagelink_2>
-		<imagelink><![CDATA[http://172.17.0.9/img/p/1/8/18.jpg]]></imagelink>
-		<imagelink_3><![CDATA[http://172.17.0.9/img/p/1/9/19.jpg]]></imagelink_3>
-		<category>!Overig</category>
-		<shop_category>Root &gt; Home &gt; Dames &gt; Jurken &gt; Zomerjurken</shop_category>
-		<deliveryperiod_nl>Niet op voorraad</deliveryperiod_nl>
-		<shippingcost_nl>6.05</shippingcost_nl>
-		<deliveryperiod_be>Niet op voorraad</deliveryperiod_be>
-		<shippingcost_be>0</shippingcost_be>
-		<eancode></eancode>
-		<description><![CDATA[\\nMouwloos jurkje van chiffon tot op de knie. V-hals en elastische inzet onder de buste.\\n]]></description>
-		<display>0</display>
-		<brand><![CDATA[Fashion Manufacturer]]></brand>
-		<samenstellingen><![CDATA[Polyester]]></samenstellingen>
-		<stijlen><![CDATA[Meisjesachtig]]></stijlen>
-		<eigenschappen><![CDATA[Korte jurk]]></eigenschappen>
-		<size><![CDATA[S]]></size>
-		<color><![CDATA[Wit]]></color>
-		<condition>Nieuw</condition>
-	</product>
-	<product>
-		<title><![CDATA[Bedrukte Zomerjurk]]></title>
-		<price>36,91</price>
-		<code>41-6</code>
-		<sku></sku>
-		<variantcode>6-8</variantcode>
-		<size>M</size>
-		<modelcode>6</modelcode>
-		<color>Wit</color>
-		<productlink><![CDATA[http://172.17.0.9/index.php?id_product=6&controller=product#/size-m/color-wit]]></productlink>
-		<imagelink_1><![CDATA[http://172.17.0.9/img/p/1/6/16.jpg]]></imagelink_1>
-		<imagelink_2><![CDATA[http://172.17.0.9/img/p/1/7/17.jpg]]></imagelink_2>
-		<imagelink><![CDATA[http://172.17.0.9/img/p/1/8/18.jpg]]></imagelink>
-		<imagelink_3><![CDATA[http://172.17.0.9/img/p/1/9/19.jpg]]></imagelink_3>
-		<category>!Overig</category>
-		<shop_category>Root &gt; Home &gt; Dames &gt; Jurken &gt; Zomerjurken</shop_category>
-		<deliveryperiod_nl>Niet op voorraad</deliveryperiod_nl>
-		<shippingcost_nl>6.05</shippingcost_nl>
-		<deliveryperiod_be>Niet op voorraad</deliveryperiod_be>
-		<shippingcost_be>0</shippingcost_be>
-		<eancode></eancode>
-		<description><![CDATA[\\nMouwloos jurkje van chiffon tot op de knie. V-hals en elastische inzet onder de buste.\\n]]></description>
-		<display>0</display>
-		<brand><![CDATA[Fashion Manufacturer]]></brand>
-		<samenstellingen><![CDATA[Polyester]]></samenstellingen>
-		<stijlen><![CDATA[Meisjesachtig]]></stijlen>
-		<eigenschappen><![CDATA[Korte jurk]]></eigenschappen>
-		<size><![CDATA[M]]></size>
-		<color><![CDATA[Wit]]></color>
-		<condition>Nieuw</condition>
-	</product>
-	<product>
-		<title><![CDATA[Bedrukte Zomerjurk]]></title>
-		<price>36,91</price>
-		<code>42-6</code>
-		<sku></sku>
-		<variantcode>6-8</variantcode>
-		<size>L</size>
-		<modelcode>6</modelcode>
-		<color>Wit</color>
-		<productlink><![CDATA[http://172.17.0.9/index.php?id_product=6&controller=product#/size-l/color-wit]]></productlink>
-		<imagelink_1><![CDATA[http://172.17.0.9/img/p/1/6/16.jpg]]></imagelink_1>
-		<imagelink_2><![CDATA[http://172.17.0.9/img/p/1/7/17.jpg]]></imagelink_2>
-		<imagelink><![CDATA[http://172.17.0.9/img/p/1/8/18.jpg]]></imagelink>
-		<imagelink_3><![CDATA[http://172.17.0.9/img/p/1/9/19.jpg]]></imagelink_3>
-		<category>!Overig</category>
-		<shop_category>Root &gt; Home &gt; Dames &gt; Jurken &gt; Zomerjurken</shop_category>
-		<deliveryperiod_nl>Niet op voorraad</deliveryperiod_nl>
-		<shippingcost_nl>6.05</shippingcost_nl>
-		<deliveryperiod_be>Niet op voorraad</deliveryperiod_be>
-		<shippingcost_be>0</shippingcost_be>
-		<eancode></eancode>
-		<description><![CDATA[\\nMouwloos jurkje van chiffon tot op de knie. V-hals en elastische inzet onder de buste.\\n]]></description>
-		<display>0</display>
-		<brand><![CDATA[Fashion Manufacturer]]></brand>
-		<samenstellingen><![CDATA[Polyester]]></samenstellingen>
-		<stijlen><![CDATA[Meisjesachtig]]></stijlen>
-		<eigenschappen><![CDATA[Korte jurk]]></eigenschappen>
-		<size><![CDATA[L]]></size>
-		<color><![CDATA[Wit]]></color>
-		<condition>Nieuw</condition>
-	</product>
-	<product>
-		<title><![CDATA[Bedrukt jurkje van chiffon]]></title>
-		<price>19,85</price>
-		<price_old>24,81</price_old>
-		<code>34-7</code>
-		<sku></sku>
-		<variantcode>7-16</variantcode>
-		<size>S</size>
-		<modelcode>7</modelcode>
-		<color>Geel</color>
-		<productlink><![CDATA[http://172.17.0.9/index.php?id_product=7&controller=product#/size-s/color-geel]]></productlink>
-		<imagelink><![CDATA[http://172.17.0.9/img/p/2/0/20.jpg]]></imagelink>
-		<imagelink_1><![CDATA[http://172.17.0.9/img/p/2/1/21.jpg]]></imagelink_1>
-		<imagelink_2><![CDATA[http://172.17.0.9/img/p/2/2/22.jpg]]></imagelink_2>
-		<imagelink_3><![CDATA[http://172.17.0.9/img/p/2/3/23.jpg]]></imagelink_3>
-		<category>!Overig</category>
-		<shop_category>Root &gt; Home &gt; Dames &gt; Jurken &gt; Zomerjurken</shop_category>
-		<deliveryperiod_nl>Op voorraad</deliveryperiod_nl>
-		<shippingcost_nl>6.05</shippingcost_nl>
-		<deliveryperiod_be>Op voorraad</deliveryperiod_be>
-		<shippingcost_be>0</shippingcost_be>
-		<eancode></eancode>
-		<description><![CDATA[\\nJurkje van chiffon tot op de knie met smalle schouderbandjes. Diepe V-hals.\\n]]></description>
-		<display>1</display>
-		<brand><![CDATA[Fashion Manufacturer]]></brand>
-		<samenstellingen><![CDATA[Polyester]]></samenstellingen>
-		<stijlen><![CDATA[Meisjesachtig]]></stijlen>
-		<eigenschappen><![CDATA[Midi jurk]]></eigenschappen>
-		<size><![CDATA[S]]></size>
-		<color><![CDATA[Geel]]></color>
-		<condition>Nieuw</condition>
-	</product>
-	<product>
-		<title><![CDATA[Bedrukt jurkje van chiffon]]></title>
-		<price>19,85</price>
-		<price_old>24,81</price_old>
-		<code>35-7</code>
-		<sku></sku>
-		<variantcode>7-16</variantcode>
-		<size>M</size>
-		<modelcode>7</modelcode>
-		<color>Geel</color>
-		<productlink><![CDATA[http://172.17.0.9/index.php?id_product=7&controller=product#/size-m/color-geel]]></productlink>
-		<imagelink><![CDATA[http://172.17.0.9/img/p/2/0/20.jpg]]></imagelink>
-		<imagelink_1><![CDATA[http://172.17.0.9/img/p/2/1/21.jpg]]></imagelink_1>
-		<imagelink_2><![CDATA[http://172.17.0.9/img/p/2/2/22.jpg]]></imagelink_2>
-		<imagelink_3><![CDATA[http://172.17.0.9/img/p/2/3/23.jpg]]></imagelink_3>
-		<category>!Overig</category>
-		<shop_category>Root &gt; Home &gt; Dames &gt; Jurken &gt; Zomerjurken</shop_category>
-		<deliveryperiod_nl>Op voorraad</deliveryperiod_nl>
-		<shippingcost_nl>6.05</shippingcost_nl>
-		<deliveryperiod_be>Op voorraad</deliveryperiod_be>
-		<shippingcost_be>0</shippingcost_be>
-		<eancode></eancode>
-		<description><![CDATA[\\nJurkje van chiffon tot op de knie met smalle schouderbandjes. Diepe V-hals.\\n]]></description>
-		<display>1</display>
-		<brand><![CDATA[Fashion Manufacturer]]></brand>
-		<samenstellingen><![CDATA[Polyester]]></samenstellingen>
-		<stijlen><![CDATA[Meisjesachtig]]></stijlen>
-		<eigenschappen><![CDATA[Midi jurk]]></eigenschappen>
-		<size><![CDATA[M]]></size>
-		<color><![CDATA[Geel]]></color>
-		<condition>Nieuw</condition>
-	</product>
-	<product>
-		<title><![CDATA[Bedrukt jurkje van chiffon]]></title>
-		<price>19,85</price>
-		<price_old>24,81</price_old>
-		<code>36-7</code>
-		<sku></sku>
-		<variantcode>7-16</variantcode>
-		<size>L</size>
-		<modelcode>7</modelcode>
-		<color>Geel</color>
-		<productlink><![CDATA[http://172.17.0.9/index.php?id_product=7&controller=product#/size-l/color-geel]]></productlink>
-		<imagelink><![CDATA[http://172.17.0.9/img/p/2/0/20.jpg]]></imagelink>
-		<imagelink_1><![CDATA[http://172.17.0.9/img/p/2/1/21.jpg]]></imagelink_1>
-		<imagelink_2><![CDATA[http://172.17.0.9/img/p/2/2/22.jpg]]></imagelink_2>
-		<imagelink_3><![CDATA[http://172.17.0.9/img/p/2/3/23.jpg]]></imagelink_3>
-		<category>!Overig</category>
-		<shop_category>Root &gt; Home &gt; Dames &gt; Jurken &gt; Zomerjurken</shop_category>
-		<deliveryperiod_nl>Op voorraad</deliveryperiod_nl>
-		<shippingcost_nl>6.05</shippingcost_nl>
-		<deliveryperiod_be>Op voorraad</deliveryperiod_be>
-		<shippingcost_be>0</shippingcost_be>
-		<eancode></eancode>
-		<description><![CDATA[\\nJurkje van chiffon tot op de knie met smalle schouderbandjes. Diepe V-hals.\\n]]></description>
-		<display>1</display>
-		<brand><![CDATA[Fashion Manufacturer]]></brand>
-		<samenstellingen><![CDATA[Polyester]]></samenstellingen>
-		<stijlen><![CDATA[Meisjesachtig]]></stijlen>
-		<eigenschappen><![CDATA[Midi jurk]]></eigenschappen>
-		<size><![CDATA[L]]></size>
-		<color><![CDATA[Geel]]></color>
-		<condition>Nieuw</condition>
-	</product>
-	<product>
-		<title><![CDATA[Bedrukt jurkje van chiffon]]></title>
-		<price>19,85</price>
-		<price_old>24,81</price_old>
-		<code>37-7</code>
-		<sku></sku>
-		<variantcode>7-15</variantcode>
-		<size>S</size>
-		<modelcode>7</modelcode>
-		<color>Groen</color>
-		<productlink><![CDATA[http://172.17.0.9/index.php?id_product=7&controller=product#/size-s/color-groen]]></productlink>
-		<imagelink_1><![CDATA[http://172.17.0.9/img/p/2/0/20.jpg]]></imagelink_1>
-		<imagelink_2><![CDATA[http://172.17.0.9/img/p/2/1/21.jpg]]></imagelink_2>
-		<imagelink><![CDATA[http://172.17.0.9/img/p/2/2/22.jpg]]></imagelink>
-		<imagelink_3><![CDATA[http://172.17.0.9/img/p/2/3/23.jpg]]></imagelink_3>
-		<category>!Overig</category>
-		<shop_category>Root &gt; Home &gt; Dames &gt; Jurken &gt; Zomerjurken</shop_category>
-		<deliveryperiod_nl>Op voorraad</deliveryperiod_nl>
-		<shippingcost_nl>6.05</shippingcost_nl>
-		<deliveryperiod_be>Op voorraad</deliveryperiod_be>
-		<shippingcost_be>0</shippingcost_be>
-		<eancode></eancode>
-		<description><![CDATA[\\nJurkje van chiffon tot op de knie met smalle schouderbandjes. Diepe V-hals.\\n]]></description>
-		<display>1</display>
-		<brand><![CDATA[Fashion Manufacturer]]></brand>
-		<samenstellingen><![CDATA[Polyester]]></samenstellingen>
-		<stijlen><![CDATA[Meisjesachtig]]></stijlen>
-		<eigenschappen><![CDATA[Midi jurk]]></eigenschappen>
-		<size><![CDATA[S]]></size>
-		<color><![CDATA[Groen]]></color>
-		<condition>Nieuw</condition>
-	</product>
-	<product>
-		<title><![CDATA[Bedrukt jurkje van chiffon]]></title>
-		<price>19,85</price>
-		<price_old>24,81</price_old>
-		<code>38-7</code>
-		<sku></sku>
-		<variantcode>7-15</variantcode>
-		<size>M</size>
-		<modelcode>7</modelcode>
-		<color>Groen</color>
-		<productlink><![CDATA[http://172.17.0.9/index.php?id_product=7&controller=product#/size-m/color-groen]]></productlink>
-		<imagelink_1><![CDATA[http://172.17.0.9/img/p/2/0/20.jpg]]></imagelink_1>
-		<imagelink_2><![CDATA[http://172.17.0.9/img/p/2/1/21.jpg]]></imagelink_2>
-		<imagelink><![CDATA[http://172.17.0.9/img/p/2/2/22.jpg]]></imagelink>
-		<imagelink_3><![CDATA[http://172.17.0.9/img/p/2/3/23.jpg]]></imagelink_3>
-		<category>!Overig</category>
-		<shop_category>Root &gt; Home &gt; Dames &gt; Jurken &gt; Zomerjurken</shop_category>
-		<deliveryperiod_nl>Op voorraad</deliveryperiod_nl>
-		<shippingcost_nl>6.05</shippingcost_nl>
-		<deliveryperiod_be>Op voorraad</deliveryperiod_be>
-		<shippingcost_be>0</shippingcost_be>
-		<eancode></eancode>
-		<description><![CDATA[\\nJurkje van chiffon tot op de knie met smalle schouderbandjes. Diepe V-hals.\\n]]></description>
-		<display>1</display>
-		<brand><![CDATA[Fashion Manufacturer]]></brand>
-		<samenstellingen><![CDATA[Polyester]]></samenstellingen>
-		<stijlen><![CDATA[Meisjesachtig]]></stijlen>
-		<eigenschappen><![CDATA[Midi jurk]]></eigenschappen>
-		<size><![CDATA[M]]></size>
-		<color><![CDATA[Groen]]></color>
-		<condition>Nieuw</condition>
-	</product>
-	<product>
-		<title><![CDATA[Bedrukt jurkje van chiffon]]></title>
-		<price>19,85</price>
-		<price_old>24,81</price_old>
-		<code>39-7</code>
-		<sku></sku>
-		<variantcode>7-15</variantcode>
-		<size>L</size>
-		<modelcode>7</modelcode>
-		<color>Groen</color>
-		<productlink><![CDATA[http://172.17.0.9/index.php?id_product=7&controller=product#/size-l/color-groen]]></productlink>
-		<imagelink_1><![CDATA[http://172.17.0.9/img/p/2/0/20.jpg]]></imagelink_1>
-		<imagelink_2><![CDATA[http://172.17.0.9/img/p/2/1/21.jpg]]></imagelink_2>
-		<imagelink><![CDATA[http://172.17.0.9/img/p/2/2/22.jpg]]></imagelink>
-		<imagelink_3><![CDATA[http://172.17.0.9/img/p/2/3/23.jpg]]></imagelink_3>
-		<category>!Overig</category>
-		<shop_category>Root &gt; Home &gt; Dames &gt; Jurken &gt; Zomerjurken</shop_category>
-		<deliveryperiod_nl>Op voorraad</deliveryperiod_nl>
-		<shippingcost_nl>6.05</shippingcost_nl>
-		<deliveryperiod_be>Op voorraad</deliveryperiod_be>
-		<shippingcost_be>0</shippingcost_be>
-		<eancode></eancode>
-		<description><![CDATA[\\nJurkje van chiffon tot op de knie met smalle schouderbandjes. Diepe V-hals.\\n]]></description>
-		<display>1</display>
-		<brand><![CDATA[Fashion Manufacturer]]></brand>
-		<samenstellingen><![CDATA[Polyester]]></samenstellingen>
-		<stijlen><![CDATA[Meisjesachtig]]></stijlen>
-		<eigenschappen><![CDATA[Midi jurk]]></eigenschappen>
-		<size><![CDATA[L]]></size>
-		<color><![CDATA[Groen]]></color>
-		<condition>Nieuw</condition>
-	</product>
+<productfeed type="beslist" date="2018-09-07 13:28:49">
+<product>
+<price>19,36</price>
+<price_old>24,20</price_old>
+<code>1-1</code>
+<sku>demo_1</sku>
+<variantcode>1-8</variantcode>
+<size>S</size>
+<modelcode>1</modelcode>
+<color>Wit</color>
+<eancode/>
+<productlink><![CDATA[http://172.17.0.6/index.php?id_product=1&id_product_attribute=1&rewrite=hummingbird-printed-t-shirt&controller=product#/grootte-s/kleur-wit]]></productlink>
+<imagelink_1><![CDATA[http://172.17.0.6/img/p/1/1.jpg]]></imagelink_1>
+<imagelink><![CDATA[http://172.17.0.6/img/p/2/2.jpg]]></imagelink>
+<shop_category>Root &gt; Home &gt; Clothes &gt; Men</shop_category>
+<deliveryperiod_nl>2 dagen</deliveryperiod_nl>
+<shippingcost_nl>6.05</shippingcost_nl>
+<deliveryperiod_be>5 dagen</deliveryperiod_be>
+<shippingcost_be>6.05</shippingcost_be>
+<description><![CDATA[<span style="font-size:10pt;font-family:Arial;font-style:normal;">Regular fit, round neckline, short sleeves. Made of extra long staple pima cotton. </span>\\n
+]]></description>
+<display>1</display>
+<brand><![CDATA[Studio Design]]></brand>
+<grootte><![CDATA[S]]></grootte><kleur><![CDATA[Wit]]></kleur><features_combined><![CDATA[Grootte: S\\nKleur: Wit\\n]]></features_combined><title><![CDATA[Hummingbird printed t-shirt]]></title>
+<condition>Nieuw</condition>
+</product>
+<product>
+<price>19,36</price>
+<price_old>24,20</price_old>
+<code>2-1</code>
+<sku>demo_1</sku>
+<variantcode>1-11</variantcode>
+<size>S</size>
+<modelcode>1</modelcode>
+<color>Zwart</color>
+<eancode/>
+<productlink><![CDATA[http://172.17.0.6/index.php?id_product=1&id_product_attribute=2&rewrite=hummingbird-printed-t-shirt&controller=product#/grootte-s/kleur-zwart]]></productlink>
+<imagelink><![CDATA[http://172.17.0.6/img/p/1/1.jpg]]></imagelink>
+<imagelink_1><![CDATA[http://172.17.0.6/img/p/2/2.jpg]]></imagelink_1>
+<shop_category>Root &gt; Home &gt; Clothes &gt; Men</shop_category>
+<deliveryperiod_nl>2 dagen</deliveryperiod_nl>
+<shippingcost_nl>6.05</shippingcost_nl>
+<deliveryperiod_be>5 dagen</deliveryperiod_be>
+<shippingcost_be>6.05</shippingcost_be>
+<description><![CDATA[<span style="font-size:10pt;font-family:Arial;font-style:normal;">Regular fit, round neckline, short sleeves. Made of extra long staple pima cotton. </span>\\n
+]]></description>
+<display>1</display>
+<brand><![CDATA[Studio Design]]></brand>
+<grootte><![CDATA[S]]></grootte><kleur><![CDATA[Zwart]]></kleur><features_combined><![CDATA[Grootte: S\\nKleur: Zwart\\n]]></features_combined><title><![CDATA[Hummingbird printed t-shirt]]></title>
+<condition>Nieuw</condition>
+</product>
+<product>
+<price>19,36</price>
+<price_old>24,20</price_old>
+<code>3-1</code>
+<sku>demo_1</sku>
+<variantcode>1-8</variantcode>
+<size>M</size>
+<modelcode>1</modelcode>
+<color>Wit</color>
+<eancode/>
+<productlink><![CDATA[http://172.17.0.6/index.php?id_product=1&id_product_attribute=3&rewrite=hummingbird-printed-t-shirt&controller=product#/grootte-m/kleur-wit]]></productlink>
+<imagelink_1><![CDATA[http://172.17.0.6/img/p/1/1.jpg]]></imagelink_1>
+<imagelink><![CDATA[http://172.17.0.6/img/p/2/2.jpg]]></imagelink>
+<shop_category>Root &gt; Home &gt; Clothes &gt; Men</shop_category>
+<deliveryperiod_nl>2 dagen</deliveryperiod_nl>
+<shippingcost_nl>6.05</shippingcost_nl>
+<deliveryperiod_be>5 dagen</deliveryperiod_be>
+<shippingcost_be>6.05</shippingcost_be>
+<description><![CDATA[<span style="font-size:10pt;font-family:Arial;font-style:normal;">Regular fit, round neckline, short sleeves. Made of extra long staple pima cotton. </span>\\n
+]]></description>
+<display>1</display>
+<brand><![CDATA[Studio Design]]></brand>
+<grootte><![CDATA[M]]></grootte><kleur><![CDATA[Wit]]></kleur><features_combined><![CDATA[Grootte: M\\nKleur: Wit\\n]]></features_combined><title><![CDATA[Hummingbird printed t-shirt]]></title>
+<condition>Nieuw</condition>
+</product>
+<product>
+<price>19,36</price>
+<price_old>24,20</price_old>
+<code>4-1</code>
+<sku>demo_1</sku>
+<variantcode>1-11</variantcode>
+<size>M</size>
+<modelcode>1</modelcode>
+<color>Zwart</color>
+<eancode/>
+<productlink><![CDATA[http://172.17.0.6/index.php?id_product=1&id_product_attribute=4&rewrite=hummingbird-printed-t-shirt&controller=product#/grootte-m/kleur-zwart]]></productlink>
+<imagelink><![CDATA[http://172.17.0.6/img/p/1/1.jpg]]></imagelink>
+<imagelink_1><![CDATA[http://172.17.0.6/img/p/2/2.jpg]]></imagelink_1>
+<shop_category>Root &gt; Home &gt; Clothes &gt; Men</shop_category>
+<deliveryperiod_nl>2 dagen</deliveryperiod_nl>
+<shippingcost_nl>6.05</shippingcost_nl>
+<deliveryperiod_be>5 dagen</deliveryperiod_be>
+<shippingcost_be>6.05</shippingcost_be>
+<description><![CDATA[<span style="font-size:10pt;font-family:Arial;font-style:normal;">Regular fit, round neckline, short sleeves. Made of extra long staple pima cotton. </span>\\n
+]]></description>
+<display>1</display>
+<brand><![CDATA[Studio Design]]></brand>
+<grootte><![CDATA[M]]></grootte><kleur><![CDATA[Zwart]]></kleur><features_combined><![CDATA[Grootte: M\\nKleur: Zwart\\n]]></features_combined><title><![CDATA[Hummingbird printed t-shirt]]></title>
+<condition>Nieuw</condition>
+</product>
+<product>
+<price>19,36</price>
+<price_old>24,20</price_old>
+<code>5-1</code>
+<sku>demo_1</sku>
+<variantcode>1-8</variantcode>
+<size>L</size>
+<modelcode>1</modelcode>
+<color>Wit</color>
+<eancode/>
+<productlink><![CDATA[http://172.17.0.6/index.php?id_product=1&id_product_attribute=5&rewrite=hummingbird-printed-t-shirt&controller=product#/grootte-l/kleur-wit]]></productlink>
+<imagelink_1><![CDATA[http://172.17.0.6/img/p/1/1.jpg]]></imagelink_1>
+<imagelink><![CDATA[http://172.17.0.6/img/p/2/2.jpg]]></imagelink>
+<shop_category>Root &gt; Home &gt; Clothes &gt; Men</shop_category>
+<deliveryperiod_nl>2 dagen</deliveryperiod_nl>
+<shippingcost_nl>6.05</shippingcost_nl>
+<deliveryperiod_be>5 dagen</deliveryperiod_be>
+<shippingcost_be>6.05</shippingcost_be>
+<description><![CDATA[<span style="font-size:10pt;font-family:Arial;font-style:normal;">Regular fit, round neckline, short sleeves. Made of extra long staple pima cotton. </span>\\n
+]]></description>
+<display>1</display>
+<brand><![CDATA[Studio Design]]></brand>
+<grootte><![CDATA[L]]></grootte><kleur><![CDATA[Wit]]></kleur><features_combined><![CDATA[Grootte: L\\nKleur: Wit\\n]]></features_combined><title><![CDATA[Hummingbird printed t-shirt]]></title>
+<condition>Nieuw</condition>
+</product>
+<product>
+<price>19,36</price>
+<price_old>24,20</price_old>
+<code>6-1</code>
+<sku>demo_1</sku>
+<variantcode>1-11</variantcode>
+<size>L</size>
+<modelcode>1</modelcode>
+<color>Zwart</color>
+<eancode/>
+<productlink><![CDATA[http://172.17.0.6/index.php?id_product=1&id_product_attribute=6&rewrite=hummingbird-printed-t-shirt&controller=product#/grootte-l/kleur-zwart]]></productlink>
+<imagelink><![CDATA[http://172.17.0.6/img/p/1/1.jpg]]></imagelink>
+<imagelink_1><![CDATA[http://172.17.0.6/img/p/2/2.jpg]]></imagelink_1>
+<shop_category>Root &gt; Home &gt; Clothes &gt; Men</shop_category>
+<deliveryperiod_nl>2 dagen</deliveryperiod_nl>
+<shippingcost_nl>6.05</shippingcost_nl>
+<deliveryperiod_be>5 dagen</deliveryperiod_be>
+<shippingcost_be>6.05</shippingcost_be>
+<description><![CDATA[<span style="font-size:10pt;font-family:Arial;font-style:normal;">Regular fit, round neckline, short sleeves. Made of extra long staple pima cotton. </span>\\n
+]]></description>
+<display>1</display>
+<brand><![CDATA[Studio Design]]></brand>
+<grootte><![CDATA[L]]></grootte><kleur><![CDATA[Zwart]]></kleur><features_combined><![CDATA[Grootte: L\\nKleur: Zwart\\n]]></features_combined><title><![CDATA[Hummingbird printed t-shirt]]></title>
+<condition>Nieuw</condition>
+</product>
+<product>
+<price>19,36</price>
+<price_old>24,20</price_old>
+<code>7-1</code>
+<sku>demo_1</sku>
+<variantcode>1-8</variantcode>
+<size>XL</size>
+<modelcode>1</modelcode>
+<color>Wit</color>
+<eancode/>
+<productlink><![CDATA[http://172.17.0.6/index.php?id_product=1&id_product_attribute=7&rewrite=hummingbird-printed-t-shirt&controller=product#/grootte-xl/kleur-wit]]></productlink>
+<imagelink_1><![CDATA[http://172.17.0.6/img/p/1/1.jpg]]></imagelink_1>
+<imagelink><![CDATA[http://172.17.0.6/img/p/2/2.jpg]]></imagelink>
+<shop_category>Root &gt; Home &gt; Clothes &gt; Men</shop_category>
+<deliveryperiod_nl>2 dagen</deliveryperiod_nl>
+<shippingcost_nl>6.05</shippingcost_nl>
+<deliveryperiod_be>5 dagen</deliveryperiod_be>
+<shippingcost_be>6.05</shippingcost_be>
+<description><![CDATA[<span style="font-size:10pt;font-family:Arial;font-style:normal;">Regular fit, round neckline, short sleeves. Made of extra long staple pima cotton. </span>\\n
+]]></description>
+<display>1</display>
+<brand><![CDATA[Studio Design]]></brand>
+<grootte><![CDATA[XL]]></grootte><kleur><![CDATA[Wit]]></kleur><features_combined><![CDATA[Grootte: XL\\nKleur: Wit\\n]]></features_combined><title><![CDATA[Hummingbird printed t-shirt]]></title>
+<condition>Nieuw</condition>
+</product>
+<product>
+<price>19,36</price>
+<price_old>24,20</price_old>
+<code>8-1</code>
+<sku>demo_1</sku>
+<variantcode>1-11</variantcode>
+<size>XL</size>
+<modelcode>1</modelcode>
+<color>Zwart</color>
+<eancode/>
+<productlink><![CDATA[http://172.17.0.6/index.php?id_product=1&id_product_attribute=8&rewrite=hummingbird-printed-t-shirt&controller=product#/grootte-xl/kleur-zwart]]></productlink>
+<imagelink><![CDATA[http://172.17.0.6/img/p/1/1.jpg]]></imagelink>
+<imagelink_1><![CDATA[http://172.17.0.6/img/p/2/2.jpg]]></imagelink_1>
+<shop_category>Root &gt; Home &gt; Clothes &gt; Men</shop_category>
+<deliveryperiod_nl>2 dagen</deliveryperiod_nl>
+<shippingcost_nl>6.05</shippingcost_nl>
+<deliveryperiod_be>5 dagen</deliveryperiod_be>
+<shippingcost_be>6.05</shippingcost_be>
+<description><![CDATA[<span style="font-size:10pt;font-family:Arial;font-style:normal;">Regular fit, round neckline, short sleeves. Made of extra long staple pima cotton. </span>\\n
+]]></description>
+<display>1</display>
+<brand><![CDATA[Studio Design]]></brand>
+<grootte><![CDATA[XL]]></grootte><kleur><![CDATA[Zwart]]></kleur><features_combined><![CDATA[Grootte: XL\\nKleur: Zwart\\n]]></features_combined><title><![CDATA[Hummingbird printed t-shirt]]></title>
+<condition>Nieuw</condition>
+</product>
+<product>
+<price>34,75</price>
+<price_old>43,44</price_old>
+<code>9-2</code>
+<sku>demo_3</sku>
+<variantcode>2</variantcode>
+<size>S</size>
+<eancode/>
+<productlink><![CDATA[http://172.17.0.6/index.php?id_product=2&id_product_attribute=9&rewrite=brown-bear-printed-sweater&controller=product#/grootte-s]]></productlink>
+<imagelink><![CDATA[http://172.17.0.6/img/p/2/1/21.jpg]]></imagelink>
+<shop_category>Root &gt; Home</shop_category>
+<deliveryperiod_nl>2 dagen</deliveryperiod_nl>
+<shippingcost_nl>6.05</shippingcost_nl>
+<deliveryperiod_be>5 dagen</deliveryperiod_be>
+<shippingcost_be>6.05</shippingcost_be>
+<description><![CDATA[<span style="font-size:10pt;font-family:Arial;font-style:normal;">Regular fit, round neckline, long sleeves. 100% cotton, brushed inner side for extra comfort. </span>]]></description>
+<display>1</display>
+<brand><![CDATA[Studio Design]]></brand>
+<grootte><![CDATA[S]]></grootte><features_combined><![CDATA[Grootte: S\\n]]></features_combined><title><![CDATA[Hummingbird printed sweater]]></title>
+<condition>Nieuw</condition>
+</product>
+<product>
+<price>34,75</price>
+<price_old>43,44</price_old>
+<code>10-2</code>
+<sku>demo_3</sku>
+<variantcode>2</variantcode>
+<size>M</size>
+<eancode/>
+<productlink><![CDATA[http://172.17.0.6/index.php?id_product=2&id_product_attribute=10&rewrite=brown-bear-printed-sweater&controller=product#/grootte-m]]></productlink>
+<imagelink><![CDATA[http://172.17.0.6/img/p/2/1/21.jpg]]></imagelink>
+<shop_category>Root &gt; Home</shop_category>
+<deliveryperiod_nl>2 dagen</deliveryperiod_nl>
+<shippingcost_nl>6.05</shippingcost_nl>
+<deliveryperiod_be>5 dagen</deliveryperiod_be>
+<shippingcost_be>6.05</shippingcost_be>
+<description><![CDATA[<span style="font-size:10pt;font-family:Arial;font-style:normal;">Regular fit, round neckline, long sleeves. 100% cotton, brushed inner side for extra comfort. </span>]]></description>
+<display>1</display>
+<brand><![CDATA[Studio Design]]></brand>
+<grootte><![CDATA[M]]></grootte><features_combined><![CDATA[Grootte: M\\n]]></features_combined><title><![CDATA[Hummingbird printed sweater]]></title>
+<condition>Nieuw</condition>
+</product>
+<product>
+<price>34,75</price>
+<price_old>43,44</price_old>
+<code>11-2</code>
+<sku>demo_3</sku>
+<variantcode>2</variantcode>
+<size>L</size>
+<eancode/>
+<productlink><![CDATA[http://172.17.0.6/index.php?id_product=2&id_product_attribute=11&rewrite=brown-bear-printed-sweater&controller=product#/grootte-l]]></productlink>
+<imagelink><![CDATA[http://172.17.0.6/img/p/2/1/21.jpg]]></imagelink>
+<shop_category>Root &gt; Home</shop_category>
+<deliveryperiod_nl>2 dagen</deliveryperiod_nl>
+<shippingcost_nl>6.05</shippingcost_nl>
+<deliveryperiod_be>5 dagen</deliveryperiod_be>
+<shippingcost_be>6.05</shippingcost_be>
+<description><![CDATA[<span style="font-size:10pt;font-family:Arial;font-style:normal;">Regular fit, round neckline, long sleeves. 100% cotton, brushed inner side for extra comfort. </span>]]></description>
+<display>1</display>
+<brand><![CDATA[Studio Design]]></brand>
+<grootte><![CDATA[L]]></grootte><features_combined><![CDATA[Grootte: L\\n]]></features_combined><title><![CDATA[Hummingbird printed sweater]]></title>
+<condition>Nieuw</condition>
+</product>
+<product>
+<price>34,75</price>
+<price_old>43,44</price_old>
+<code>12-2</code>
+<sku>demo_3</sku>
+<variantcode>2</variantcode>
+<size>XL</size>
+<eancode/>
+<productlink><![CDATA[http://172.17.0.6/index.php?id_product=2&id_product_attribute=12&rewrite=brown-bear-printed-sweater&controller=product#/grootte-xl]]></productlink>
+<imagelink><![CDATA[http://172.17.0.6/img/p/2/1/21.jpg]]></imagelink>
+<shop_category>Root &gt; Home</shop_category>
+<deliveryperiod_nl>2 dagen</deliveryperiod_nl>
+<shippingcost_nl>6.05</shippingcost_nl>
+<deliveryperiod_be>5 dagen</deliveryperiod_be>
+<shippingcost_be>6.05</shippingcost_be>
+<description><![CDATA[<span style="font-size:10pt;font-family:Arial;font-style:normal;">Regular fit, round neckline, long sleeves. 100% cotton, brushed inner side for extra comfort. </span>]]></description>
+<display>1</display>
+<brand><![CDATA[Studio Design]]></brand>
+<grootte><![CDATA[XL]]></grootte><features_combined><![CDATA[Grootte: XL\\n]]></features_combined><title><![CDATA[Hummingbird printed sweater]]></title>
+<condition>Nieuw</condition>
+</product>
+<product>
+<price>35,09</price>
+<code>13-3</code>
+<sku>demo_6</sku>
+<eancode/>
+<productlink><![CDATA[http://172.17.0.6/index.php?id_product=3&id_product_attribute=13&rewrite=the-best-is-yet-to-come-framed-poster&controller=product#/dimension-40x60cm]]></productlink>
+<imagelink><![CDATA[http://172.17.0.6/img/p/3/3.jpg]]></imagelink>
+<shop_category>Root &gt; Home &gt; Art</shop_category>
+<deliveryperiod_nl>2 dagen</deliveryperiod_nl>
+<shippingcost_nl>6.05</shippingcost_nl>
+<deliveryperiod_be>5 dagen</deliveryperiod_be>
+<shippingcost_be>6.05</shippingcost_be>
+<description><![CDATA[<span style="font-size:10pt;font-family:Arial;font-weight:normal;font-style:normal;color:#000000;">Printed on rigid matt paper and smooth surface.</span>]]></description>
+<display>1</display>
+<brand><![CDATA[Graphic Corner]]></brand>
+<dimension><![CDATA[40x60cm]]></dimension><features_combined><![CDATA[Dimension: 40x60cm\\n]]></features_combined><title><![CDATA[The best is yet to come' Framed poster, 40x60cm]]></title>
+<condition>Nieuw</condition>
+</product>
+<product>
+<price>59,29</price>
+<code>14-3</code>
+<sku>demo_6</sku>
+<eancode/>
+<productlink><![CDATA[http://172.17.0.6/index.php?id_product=3&id_product_attribute=14&rewrite=the-best-is-yet-to-come-framed-poster&controller=product#/dimension-60x90cm]]></productlink>
+<imagelink><![CDATA[http://172.17.0.6/img/p/3/3.jpg]]></imagelink>
+<shop_category>Root &gt; Home &gt; Art</shop_category>
+<deliveryperiod_nl>2 dagen</deliveryperiod_nl>
+<shippingcost_nl>6.05</shippingcost_nl>
+<deliveryperiod_be>5 dagen</deliveryperiod_be>
+<shippingcost_be>6.05</shippingcost_be>
+<description><![CDATA[<span style="font-size:10pt;font-family:Arial;font-weight:normal;font-style:normal;color:#000000;">Printed on rigid matt paper and smooth surface.</span>]]></description>
+<display>1</display>
+<brand><![CDATA[Graphic Corner]]></brand>
+<dimension><![CDATA[60x90cm]]></dimension><features_combined><![CDATA[Dimension: 60x90cm\\n]]></features_combined><title><![CDATA[The best is yet to come' Framed poster, 60x90cm]]></title>
+<condition>Nieuw</condition>
+</product>
+<product>
+<price>95,59</price>
+<code>15-3</code>
+<sku>demo_6</sku>
+<eancode/>
+<productlink><![CDATA[http://172.17.0.6/index.php?id_product=3&id_product_attribute=15&rewrite=the-best-is-yet-to-come-framed-poster&controller=product#/dimension-80x120cm]]></productlink>
+<imagelink><![CDATA[http://172.17.0.6/img/p/3/3.jpg]]></imagelink>
+<shop_category>Root &gt; Home &gt; Art</shop_category>
+<deliveryperiod_nl>2 dagen</deliveryperiod_nl>
+<shippingcost_nl>6.05</shippingcost_nl>
+<deliveryperiod_be>5 dagen</deliveryperiod_be>
+<shippingcost_be>6.05</shippingcost_be>
+<description><![CDATA[<span style="font-size:10pt;font-family:Arial;font-weight:normal;font-style:normal;color:#000000;">Printed on rigid matt paper and smooth surface.</span>]]></description>
+<display>1</display>
+<brand><![CDATA[Graphic Corner]]></brand>
+<dimension><![CDATA[80x120cm]]></dimension><features_combined><![CDATA[Dimension: 80x120cm\\n]]></features_combined><title><![CDATA[The best is yet to come' Framed poster, 80x120cm]]></title>
+<condition>Nieuw</condition>
+</product>
+<product>
+<price>35,09</price>
+<code>16-4</code>
+<sku>demo_5</sku>
+<eancode/>
+<productlink><![CDATA[http://172.17.0.6/index.php?id_product=4&id_product_attribute=16&rewrite=the-adventure-begins-framed-poster&controller=product#/dimension-40x60cm]]></productlink>
+<imagelink><![CDATA[http://172.17.0.6/img/p/4/4.jpg]]></imagelink>
+<shop_category>Root &gt; Home</shop_category>
+<deliveryperiod_nl>2 dagen</deliveryperiod_nl>
+<shippingcost_nl>6.05</shippingcost_nl>
+<deliveryperiod_be>5 dagen</deliveryperiod_be>
+<shippingcost_be>6.05</shippingcost_be>
+<description><![CDATA[<span style="font-size:10pt;font-family:Arial;font-weight:normal;font-style:normal;color:#000000;">Printed on rigid matt finish and smooth surface.</span>]]></description>
+<display>1</display>
+<brand><![CDATA[Graphic Corner]]></brand>
+<dimension><![CDATA[40x60cm]]></dimension><features_combined><![CDATA[Dimension: 40x60cm\\n]]></features_combined><title><![CDATA[The adventure begins Framed poster, 40x60cm]]></title>
+<condition>Nieuw</condition>
+</product>
+<product>
+<price>59,29</price>
+<code>17-4</code>
+<sku>demo_5</sku>
+<eancode/>
+<productlink><![CDATA[http://172.17.0.6/index.php?id_product=4&id_product_attribute=17&rewrite=the-adventure-begins-framed-poster&controller=product#/dimension-60x90cm]]></productlink>
+<imagelink><![CDATA[http://172.17.0.6/img/p/4/4.jpg]]></imagelink>
+<shop_category>Root &gt; Home</shop_category>
+<deliveryperiod_nl>2 dagen</deliveryperiod_nl>
+<shippingcost_nl>6.05</shippingcost_nl>
+<deliveryperiod_be>5 dagen</deliveryperiod_be>
+<shippingcost_be>6.05</shippingcost_be>
+<description><![CDATA[<span style="font-size:10pt;font-family:Arial;font-weight:normal;font-style:normal;color:#000000;">Printed on rigid matt finish and smooth surface.</span>]]></description>
+<display>1</display>
+<brand><![CDATA[Graphic Corner]]></brand>
+<dimension><![CDATA[60x90cm]]></dimension><features_combined><![CDATA[Dimension: 60x90cm\\n]]></features_combined><title><![CDATA[The adventure begins Framed poster, 60x90cm]]></title>
+<condition>Nieuw</condition>
+</product>
+<product>
+<price>95,59</price>
+<code>18-4</code>
+<sku>demo_5</sku>
+<eancode/>
+<productlink><![CDATA[http://172.17.0.6/index.php?id_product=4&id_product_attribute=18&rewrite=the-adventure-begins-framed-poster&controller=product#/dimension-80x120cm]]></productlink>
+<imagelink><![CDATA[http://172.17.0.6/img/p/4/4.jpg]]></imagelink>
+<shop_category>Root &gt; Home</shop_category>
+<deliveryperiod_nl>2 dagen</deliveryperiod_nl>
+<shippingcost_nl>6.05</shippingcost_nl>
+<deliveryperiod_be>5 dagen</deliveryperiod_be>
+<shippingcost_be>6.05</shippingcost_be>
+<description><![CDATA[<span style="font-size:10pt;font-family:Arial;font-weight:normal;font-style:normal;color:#000000;">Printed on rigid matt finish and smooth surface.</span>]]></description>
+<display>1</display>
+<brand><![CDATA[Graphic Corner]]></brand>
+<dimension><![CDATA[80x120cm]]></dimension><features_combined><![CDATA[Dimension: 80x120cm\\n]]></features_combined><title><![CDATA[The adventure begins Framed poster, 80x120cm]]></title>
+<condition>Nieuw</condition>
+</product>
+<product>
+<price>35,09</price>
+<code>19-5</code>
+<sku>demo_7</sku>
+<eancode/>
+<productlink><![CDATA[http://172.17.0.6/index.php?id_product=5&id_product_attribute=19&rewrite=today-is-a-good-day-framed-poster&controller=product#/dimension-40x60cm]]></productlink>
+<imagelink><![CDATA[http://172.17.0.6/img/p/5/5.jpg]]></imagelink>
+<shop_category>Root &gt; Home &gt; Art</shop_category>
+<deliveryperiod_nl>2 dagen</deliveryperiod_nl>
+<shippingcost_nl>6.05</shippingcost_nl>
+<deliveryperiod_be>5 dagen</deliveryperiod_be>
+<shippingcost_be>6.05</shippingcost_be>
+<description><![CDATA[<span style="font-size:10pt;font-family:Arial;font-weight:normal;font-style:normal;color:#000000;">Printed on rigid paper with matt finish and smooth surface.</span>]]></description>
+<display>1</display>
+<brand><![CDATA[Graphic Corner]]></brand>
+<dimension><![CDATA[40x60cm]]></dimension><features_combined><![CDATA[Dimension: 40x60cm\\n]]></features_combined><title><![CDATA[Today is a good day Framed poster, 40x60cm]]></title>
+<condition>Nieuw</condition>
+</product>
+<product>
+<price>59,29</price>
+<code>20-5</code>
+<sku>demo_7</sku>
+<eancode/>
+<productlink><![CDATA[http://172.17.0.6/index.php?id_product=5&id_product_attribute=20&rewrite=today-is-a-good-day-framed-poster&controller=product#/dimension-60x90cm]]></productlink>
+<imagelink><![CDATA[http://172.17.0.6/img/p/5/5.jpg]]></imagelink>
+<shop_category>Root &gt; Home &gt; Art</shop_category>
+<deliveryperiod_nl>2 dagen</deliveryperiod_nl>
+<shippingcost_nl>6.05</shippingcost_nl>
+<deliveryperiod_be>5 dagen</deliveryperiod_be>
+<shippingcost_be>6.05</shippingcost_be>
+<description><![CDATA[<span style="font-size:10pt;font-family:Arial;font-weight:normal;font-style:normal;color:#000000;">Printed on rigid paper with matt finish and smooth surface.</span>]]></description>
+<display>1</display>
+<brand><![CDATA[Graphic Corner]]></brand>
+<dimension><![CDATA[60x90cm]]></dimension><features_combined><![CDATA[Dimension: 60x90cm\\n]]></features_combined><title><![CDATA[Today is a good day Framed poster, 60x90cm]]></title>
+<condition>Nieuw</condition>
+</product>
+<product>
+<price>95,59</price>
+<code>21-5</code>
+<sku>demo_7</sku>
+<eancode/>
+<productlink><![CDATA[http://172.17.0.6/index.php?id_product=5&id_product_attribute=21&rewrite=today-is-a-good-day-framed-poster&controller=product#/dimension-80x120cm]]></productlink>
+<imagelink><![CDATA[http://172.17.0.6/img/p/5/5.jpg]]></imagelink>
+<shop_category>Root &gt; Home &gt; Art</shop_category>
+<deliveryperiod_nl>2 dagen</deliveryperiod_nl>
+<shippingcost_nl>6.05</shippingcost_nl>
+<deliveryperiod_be>5 dagen</deliveryperiod_be>
+<shippingcost_be>6.05</shippingcost_be>
+<description><![CDATA[<span style="font-size:10pt;font-family:Arial;font-weight:normal;font-style:normal;color:#000000;">Printed on rigid paper with matt finish and smooth surface.</span>]]></description>
+<display>1</display>
+<brand><![CDATA[Graphic Corner]]></brand>
+<dimension><![CDATA[80x120cm]]></dimension><features_combined><![CDATA[Dimension: 80x120cm\\n]]></features_combined><title><![CDATA[Today is a good day Framed poster, 80x120cm]]></title>
+<condition>Nieuw</condition>
+</product>
+<product>
+<price>14,40</price>
+<code>6</code>
+<sku>demo_11</sku>
+<eancode/>
+<productlink><![CDATA[http://172.17.0.6/index.php?id_product=6&rewrite=mug-the-best-is-yet-to-come&controller=product]]></productlink>
+<imagelink><![CDATA[http://172.17.0.6/img/p/6/6.jpg]]></imagelink>
+<shop_category>Root &gt; Home &gt; Accessoires &gt; Home Accessories</shop_category>
+<deliveryperiod_nl>2 dagen</deliveryperiod_nl>
+<shippingcost_nl>6.05</shippingcost_nl>
+<deliveryperiod_be>5 dagen</deliveryperiod_be>
+<shippingcost_be>6.05</shippingcost_be>
+<description><![CDATA[<span style="font-size:10pt;font-family:Arial;font-style:normal;">White Ceramic Mug, 325ml.</span>]]></description>
+<display>1</display>
+<brand><![CDATA[Studio Design]]></brand>
+<features_combined><![CDATA[]]></features_combined><title><![CDATA[Mug The best is yet to come]]></title>
+<condition>Nieuw</condition>
+</product>
+<product>
+<price>14,40</price>
+<code>7</code>
+<sku>demo_12</sku>
+<eancode/>
+<productlink><![CDATA[http://172.17.0.6/index.php?id_product=7&rewrite=mug-the-adventure-begins&controller=product]]></productlink>
+<imagelink><![CDATA[http://172.17.0.6/img/p/7/7.jpg]]></imagelink>
+<shop_category>Root &gt; Home &gt; Accessoires &gt; Home Accessories</shop_category>
+<deliveryperiod_nl>2 dagen</deliveryperiod_nl>
+<shippingcost_nl>6.05</shippingcost_nl>
+<deliveryperiod_be>5 dagen</deliveryperiod_be>
+<shippingcost_be>6.05</shippingcost_be>
+<description><![CDATA[<span style="font-size:10pt;font-family:Arial;font-style:normal;">White Ceramic Mug. 325ml</span>]]></description>
+<display>1</display>
+<brand><![CDATA[Studio Design]]></brand>
+<features_combined><![CDATA[]]></features_combined><title><![CDATA[Mug The adventure begins]]></title>
+<condition>Nieuw</condition>
+</product>
+<product>
+<price>14,40</price>
+<code>8</code>
+<sku>demo_13</sku>
+<eancode/>
+<productlink><![CDATA[http://172.17.0.6/index.php?id_product=8&rewrite=mug-today-is-a-good-day&controller=product]]></productlink>
+<imagelink><![CDATA[http://172.17.0.6/img/p/8/8.jpg]]></imagelink>
+<shop_category>Root &gt; Home</shop_category>
+<deliveryperiod_nl>2 dagen</deliveryperiod_nl>
+<shippingcost_nl>6.05</shippingcost_nl>
+<deliveryperiod_be>5 dagen</deliveryperiod_be>
+<shippingcost_be>6.05</shippingcost_be>
+<description><![CDATA[<span style="font-size:10pt;font-family:Arial;font-style:normal;">White Ceramic Mug. 325ml</span>]]></description>
+<display>1</display>
+<brand><![CDATA[Studio Design]]></brand>
+<features_combined><![CDATA[]]></features_combined><title><![CDATA[Mug Today is a good day]]></title>
+<condition>Nieuw</condition>
+</product>
+<product>
+<price>22,87</price>
+<code>22-9</code>
+<sku>demo_15</sku>
+<modelcode>9</modelcode>
+<color>Wit</color>
+<eancode/>
+<productlink><![CDATA[http://172.17.0.6/index.php?id_product=9&id_product_attribute=22&rewrite=mountain-fox-cushion&controller=product#/kleur-wit]]></productlink>
+<imagelink_1><![CDATA[http://172.17.0.6/img/p/9/9.jpg]]></imagelink_1>
+<imagelink><![CDATA[http://172.17.0.6/img/p/1/0/10.jpg]]></imagelink>
+<shop_category>Root &gt; Home &gt; Accessoires &gt; Home Accessories</shop_category>
+<deliveryperiod_nl>2 dagen</deliveryperiod_nl>
+<shippingcost_nl>6.05</shippingcost_nl>
+<deliveryperiod_be>5 dagen</deliveryperiod_be>
+<shippingcost_be>6.05</shippingcost_be>
+<description><![CDATA[<span style="font-size:10pt;font-family:Arial;font-style:normal;">Cushion with removable cover and invisible zip on the back. 32x32cm</span>]]></description>
+<display>1</display>
+<brand><![CDATA[Studio Design]]></brand>
+<kleur><![CDATA[Wit]]></kleur><features_combined><![CDATA[Kleur: Wit\\n]]></features_combined><title><![CDATA[Mountain fox cushion]]></title>
+<condition>Nieuw</condition>
+</product>
+<product>
+<price>22,87</price>
+<code>23-9</code>
+<sku>demo_15</sku>
+<modelcode>9</modelcode>
+<color>Zwart</color>
+<eancode/>
+<productlink><![CDATA[http://172.17.0.6/index.php?id_product=9&id_product_attribute=23&rewrite=mountain-fox-cushion&controller=product#/kleur-zwart]]></productlink>
+<imagelink><![CDATA[http://172.17.0.6/img/p/9/9.jpg]]></imagelink>
+<imagelink_1><![CDATA[http://172.17.0.6/img/p/1/0/10.jpg]]></imagelink_1>
+<shop_category>Root &gt; Home &gt; Accessoires &gt; Home Accessories</shop_category>
+<deliveryperiod_nl>2 dagen</deliveryperiod_nl>
+<shippingcost_nl>6.05</shippingcost_nl>
+<deliveryperiod_be>5 dagen</deliveryperiod_be>
+<shippingcost_be>6.05</shippingcost_be>
+<description><![CDATA[<span style="font-size:10pt;font-family:Arial;font-style:normal;">Cushion with removable cover and invisible zip on the back. 32x32cm</span>]]></description>
+<display>1</display>
+<brand><![CDATA[Studio Design]]></brand>
+<kleur><![CDATA[Zwart]]></kleur><features_combined><![CDATA[Kleur: Zwart\\n]]></features_combined><title><![CDATA[Mountain fox cushion]]></title>
+<condition>Nieuw</condition>
+</product>
+<product>
+<price>22,87</price>
+<code>24-10</code>
+<sku>demo_16</sku>
+<modelcode>10</modelcode>
+<color>Wit</color>
+<eancode/>
+<productlink><![CDATA[http://172.17.0.6/index.php?id_product=10&id_product_attribute=24&rewrite=brown-bear-cushion&controller=product#/kleur-wit]]></productlink>
+<imagelink_1><![CDATA[http://172.17.0.6/img/p/1/1/11.jpg]]></imagelink_1>
+<imagelink><![CDATA[http://172.17.0.6/img/p/1/2/12.jpg]]></imagelink>
+<shop_category>Root &gt; Home &gt; Accessoires &gt; Home Accessories</shop_category>
+<deliveryperiod_nl>2 dagen</deliveryperiod_nl>
+<shippingcost_nl>6.05</shippingcost_nl>
+<deliveryperiod_be>5 dagen</deliveryperiod_be>
+<shippingcost_be>6.05</shippingcost_be>
+<description><![CDATA[<span style="font-size:10pt;font-family:Arial;font-style:normal;">Cushion with removable cover and invisible zip on the back. 32x32cm</span>]]></description>
+<display>1</display>
+<brand><![CDATA[Studio Design]]></brand>
+<kleur><![CDATA[Wit]]></kleur><features_combined><![CDATA[Kleur: Wit\\n]]></features_combined><title><![CDATA[Brown bear cushion]]></title>
+<condition>Nieuw</condition>
+</product>
+<product>
+<price>22,87</price>
+<code>25-10</code>
+<sku>demo_16</sku>
+<modelcode>10</modelcode>
+<color>Zwart</color>
+<eancode/>
+<productlink><![CDATA[http://172.17.0.6/index.php?id_product=10&id_product_attribute=25&rewrite=brown-bear-cushion&controller=product#/kleur-zwart]]></productlink>
+<imagelink><![CDATA[http://172.17.0.6/img/p/1/1/11.jpg]]></imagelink>
+<imagelink_1><![CDATA[http://172.17.0.6/img/p/1/2/12.jpg]]></imagelink_1>
+<shop_category>Root &gt; Home &gt; Accessoires &gt; Home Accessories</shop_category>
+<deliveryperiod_nl>2 dagen</deliveryperiod_nl>
+<shippingcost_nl>6.05</shippingcost_nl>
+<deliveryperiod_be>5 dagen</deliveryperiod_be>
+<shippingcost_be>6.05</shippingcost_be>
+<description><![CDATA[<span style="font-size:10pt;font-family:Arial;font-style:normal;">Cushion with removable cover and invisible zip on the back. 32x32cm</span>]]></description>
+<display>1</display>
+<brand><![CDATA[Studio Design]]></brand>
+<kleur><![CDATA[Zwart]]></kleur><features_combined><![CDATA[Kleur: Zwart\\n]]></features_combined><title><![CDATA[Brown bear cushion]]></title>
+<condition>Nieuw</condition>
+</product>
+<product>
+<price>22,87</price>
+<code>26-11</code>
+<sku>demo_17</sku>
+<modelcode>11</modelcode>
+<color>Wit</color>
+<eancode/>
+<productlink><![CDATA[http://172.17.0.6/index.php?id_product=11&id_product_attribute=26&rewrite=hummingbird-cushion&controller=product#/kleur-wit]]></productlink>
+<imagelink_1><![CDATA[http://172.17.0.6/img/p/1/3/13.jpg]]></imagelink_1>
+<imagelink><![CDATA[http://172.17.0.6/img/p/1/4/14.jpg]]></imagelink>
+<shop_category>Root &gt; Home &gt; Accessoires &gt; Home Accessories</shop_category>
+<deliveryperiod_nl>2 dagen</deliveryperiod_nl>
+<shippingcost_nl>6.05</shippingcost_nl>
+<deliveryperiod_be>5 dagen</deliveryperiod_be>
+<shippingcost_be>6.05</shippingcost_be>
+<description><![CDATA[<span style="font-size:10pt;font-family:Arial;font-style:normal;">Cushion with removable cover and invisible zip on the back. 32x32cm</span>]]></description>
+<display>1</display>
+<brand><![CDATA[Studio Design]]></brand>
+<kleur><![CDATA[Wit]]></kleur><features_combined><![CDATA[Kleur: Wit\\n]]></features_combined><title><![CDATA[Hummingbird cushion]]></title>
+<condition>Nieuw</condition>
+</product>
+<product>
+<price>22,87</price>
+<code>27-11</code>
+<sku>demo_17</sku>
+<modelcode>11</modelcode>
+<color>Zwart</color>
+<eancode/>
+<productlink><![CDATA[http://172.17.0.6/index.php?id_product=11&id_product_attribute=27&rewrite=hummingbird-cushion&controller=product#/kleur-zwart]]></productlink>
+<imagelink><![CDATA[http://172.17.0.6/img/p/1/3/13.jpg]]></imagelink>
+<imagelink_1><![CDATA[http://172.17.0.6/img/p/1/4/14.jpg]]></imagelink_1>
+<shop_category>Root &gt; Home &gt; Accessoires &gt; Home Accessories</shop_category>
+<deliveryperiod_nl>2 dagen</deliveryperiod_nl>
+<shippingcost_nl>6.05</shippingcost_nl>
+<deliveryperiod_be>5 dagen</deliveryperiod_be>
+<shippingcost_be>6.05</shippingcost_be>
+<description><![CDATA[<span style="font-size:10pt;font-family:Arial;font-style:normal;">Cushion with removable cover and invisible zip on the back. 32x32cm</span>]]></description>
+<display>1</display>
+<brand><![CDATA[Studio Design]]></brand>
+<kleur><![CDATA[Zwart]]></kleur><features_combined><![CDATA[Kleur: Zwart\\n]]></features_combined><title><![CDATA[Hummingbird cushion]]></title>
+<condition>Nieuw</condition>
+</product>
+<product>
+<price>10,89</price>
+<code>12</code>
+<sku>demo_18</sku>
+<eancode/>
+<productlink><![CDATA[http://172.17.0.6/index.php?id_product=12&rewrite=mountain-fox-vector-graphics&controller=product]]></productlink>
+<imagelink><![CDATA[http://172.17.0.6/img/p/1/5/15.jpg]]></imagelink>
+<shop_category>Root &gt; Home &gt; Art</shop_category>
+<deliveryperiod_nl>2 dagen</deliveryperiod_nl>
+<shippingcost_nl>6.05</shippingcost_nl>
+<deliveryperiod_be>5 dagen</deliveryperiod_be>
+<shippingcost_be>6.05</shippingcost_be>
+<description><![CDATA[<span style="font-size:10pt;font-family:Arial;font-style:normal;">Vector graphic, format: svg. Download for personal, private and non-commercial use.</span>]]></description>
+<display>1</display>
+<brand><![CDATA[Graphic Corner]]></brand>
+<features_combined><![CDATA[]]></features_combined><title><![CDATA[Mountain fox - Vector graphics]]></title>
+<condition>Nieuw</condition>
+</product>
+<product>
+<price>10,89</price>
+<code>13</code>
+<sku>demo_19</sku>
+<eancode/>
+<productlink><![CDATA[http://172.17.0.6/index.php?id_product=13&rewrite=brown-bear-vector-graphics&controller=product]]></productlink>
+<imagelink><![CDATA[http://172.17.0.6/img/p/1/6/16.jpg]]></imagelink>
+<shop_category>Root &gt; Home &gt; Art</shop_category>
+<deliveryperiod_nl>2 dagen</deliveryperiod_nl>
+<shippingcost_nl>6.05</shippingcost_nl>
+<deliveryperiod_be>5 dagen</deliveryperiod_be>
+<shippingcost_be>6.05</shippingcost_be>
+<description><![CDATA[<span style="font-size:10pt;font-family:Arial;font-style:normal;">Vector graphic, format: svg. Download for personal, private and non-commercial use.</span>]]></description>
+<display>1</display>
+<brand><![CDATA[Graphic Corner]]></brand>
+<features_combined><![CDATA[]]></features_combined><title><![CDATA[Brown bear - Vector graphics]]></title>
+<condition>Nieuw</condition>
+</product>
+<product>
+<price>10,89</price>
+<code>14</code>
+<sku>demo_20</sku>
+<eancode/>
+<productlink><![CDATA[http://172.17.0.6/index.php?id_product=14&rewrite=hummingbird-vector-graphics&controller=product]]></productlink>
+<imagelink><![CDATA[http://172.17.0.6/img/p/1/7/17.jpg]]></imagelink>
+<shop_category>Root &gt; Home &gt; Art</shop_category>
+<deliveryperiod_nl>2 dagen</deliveryperiod_nl>
+<shippingcost_nl>6.05</shippingcost_nl>
+<deliveryperiod_be>5 dagen</deliveryperiod_be>
+<shippingcost_be>6.05</shippingcost_be>
+<description><![CDATA[<span style="font-size:10pt;font-family:Arial;font-style:normal;">Vector graphic, format: svg. Download for personal, private and non-commercial use.</span>]]></description>
+<display>1</display>
+<brand><![CDATA[Graphic Corner]]></brand>
+<features_combined><![CDATA[]]></features_combined><title><![CDATA[Hummingbird - Vector graphics]]></title>
+<condition>Nieuw</condition>
+</product>
+<product>
+<price>42,35</price>
+<code>15</code>
+<sku>demo_21</sku>
+<eancode/>
+<productlink><![CDATA[http://172.17.0.6/index.php?id_product=15&rewrite=pack-mug-framed-poster&controller=product]]></productlink>
+<imagelink><![CDATA[http://172.17.0.6/img/p/2/3/23.jpg]]></imagelink>
+<shop_category>Root &gt; Home &gt; Accessoires &gt; Home Accessories</shop_category>
+<deliveryperiod_nl>2 dagen</deliveryperiod_nl>
+<shippingcost_nl>6.05</shippingcost_nl>
+<deliveryperiod_be>5 dagen</deliveryperiod_be>
+<shippingcost_be>6.05</shippingcost_be>
+<description><![CDATA[<span style="font-size:10pt;font-family:Arial;font-style:normal;">Mug The Adventure Begins + Framed poster Today is a good day 40x60cm </span>]]></description>
+<display>1</display>
+<features_combined><![CDATA[]]></features_combined><title><![CDATA[Pack Mug + Framed poster]]></title>
+<condition>Nieuw</condition>
+</product>
+<product>
+<price>15,61</price>
+<code>28-16</code>
+<sku>demo_8</sku>
+<eancode/>
+<productlink><![CDATA[http://172.17.0.6/index.php?id_product=16&id_product_attribute=28&rewrite=mountain-fox-notebook&controller=product#/paper_type-ruled]]></productlink>
+<imagelink><![CDATA[http://172.17.0.6/img/p/1/8/18.jpg]]></imagelink>
+<shop_category>Root &gt; Home &gt; Accessoires &gt; Stationery</shop_category>
+<deliveryperiod_nl>2 dagen</deliveryperiod_nl>
+<shippingcost_nl>6.05</shippingcost_nl>
+<deliveryperiod_be>5 dagen</deliveryperiod_be>
+<shippingcost_be>6.05</shippingcost_be>
+<description><![CDATA[<span style="font-size:10pt;font-family:Arial;font-style:normal;">120 sheets notebook with hard cover made of recycled cardboard. 16x22cm</span>]]></description>
+<display>1</display>
+<brand><![CDATA[Graphic Corner]]></brand>
+<papertype><![CDATA[Ruled]]></papertype><features_combined><![CDATA[Paper Type: Ruled\\n]]></features_combined><title><![CDATA[Mountain fox notebook, Ruled]]></title>
+<condition>Nieuw</condition>
+</product>
+<product>
+<price>15,61</price>
+<code>29-16</code>
+<sku>demo_8</sku>
+<eancode/>
+<productlink><![CDATA[http://172.17.0.6/index.php?id_product=16&id_product_attribute=29&rewrite=mountain-fox-notebook&controller=product#/paper_type-plain]]></productlink>
+<imagelink><![CDATA[http://172.17.0.6/img/p/1/8/18.jpg]]></imagelink>
+<shop_category>Root &gt; Home &gt; Accessoires &gt; Stationery</shop_category>
+<deliveryperiod_nl>2 dagen</deliveryperiod_nl>
+<shippingcost_nl>6.05</shippingcost_nl>
+<deliveryperiod_be>5 dagen</deliveryperiod_be>
+<shippingcost_be>6.05</shippingcost_be>
+<description><![CDATA[<span style="font-size:10pt;font-family:Arial;font-style:normal;">120 sheets notebook with hard cover made of recycled cardboard. 16x22cm</span>]]></description>
+<display>1</display>
+<brand><![CDATA[Graphic Corner]]></brand>
+<papertype><![CDATA[Plain]]></papertype><features_combined><![CDATA[Paper Type: Plain\\n]]></features_combined><title><![CDATA[Mountain fox notebook, Plain]]></title>
+<condition>Nieuw</condition>
+</product>
+<product>
+<price>15,61</price>
+<code>30-16</code>
+<sku>demo_8</sku>
+<eancode/>
+<productlink><![CDATA[http://172.17.0.6/index.php?id_product=16&id_product_attribute=30&rewrite=mountain-fox-notebook&controller=product#/paper_type-squarred]]></productlink>
+<imagelink><![CDATA[http://172.17.0.6/img/p/1/8/18.jpg]]></imagelink>
+<shop_category>Root &gt; Home &gt; Accessoires &gt; Stationery</shop_category>
+<deliveryperiod_nl>2 dagen</deliveryperiod_nl>
+<shippingcost_nl>6.05</shippingcost_nl>
+<deliveryperiod_be>5 dagen</deliveryperiod_be>
+<shippingcost_be>6.05</shippingcost_be>
+<description><![CDATA[<span style="font-size:10pt;font-family:Arial;font-style:normal;">120 sheets notebook with hard cover made of recycled cardboard. 16x22cm</span>]]></description>
+<display>1</display>
+<brand><![CDATA[Graphic Corner]]></brand>
+<papertype><![CDATA[Squarred]]></papertype><features_combined><![CDATA[Paper Type: Squarred\\n]]></features_combined><title><![CDATA[Mountain fox notebook, Squarred]]></title>
+<condition>Nieuw</condition>
+</product>
+<product>
+<price>15,61</price>
+<code>31-16</code>
+<sku>demo_8</sku>
+<eancode/>
+<productlink><![CDATA[http://172.17.0.6/index.php?id_product=16&id_product_attribute=31&rewrite=mountain-fox-notebook&controller=product#/paper_type-doted]]></productlink>
+<imagelink><![CDATA[http://172.17.0.6/img/p/1/8/18.jpg]]></imagelink>
+<shop_category>Root &gt; Home &gt; Accessoires &gt; Stationery</shop_category>
+<deliveryperiod_nl>2 dagen</deliveryperiod_nl>
+<shippingcost_nl>6.05</shippingcost_nl>
+<deliveryperiod_be>5 dagen</deliveryperiod_be>
+<shippingcost_be>6.05</shippingcost_be>
+<description><![CDATA[<span style="font-size:10pt;font-family:Arial;font-style:normal;">120 sheets notebook with hard cover made of recycled cardboard. 16x22cm</span>]]></description>
+<display>1</display>
+<brand><![CDATA[Graphic Corner]]></brand>
+<papertype><![CDATA[Doted]]></papertype><features_combined><![CDATA[Paper Type: Doted\\n]]></features_combined><title><![CDATA[Mountain fox notebook, Doted]]></title>
+<condition>Nieuw</condition>
+</product>
+<product>
+<price>15,61</price>
+<code>32-17</code>
+<sku>demo_9</sku>
+<eancode/>
+<productlink><![CDATA[http://172.17.0.6/index.php?id_product=17&id_product_attribute=32&rewrite=mountain-fox-notebook&controller=product#/paper_type-ruled]]></productlink>
+<imagelink><![CDATA[http://172.17.0.6/img/p/1/9/19.jpg]]></imagelink>
+<shop_category>Root &gt; Home &gt; Accessoires &gt; Stationery</shop_category>
+<deliveryperiod_nl>2 dagen</deliveryperiod_nl>
+<shippingcost_nl>6.05</shippingcost_nl>
+<deliveryperiod_be>5 dagen</deliveryperiod_be>
+<shippingcost_be>6.05</shippingcost_be>
+<description><![CDATA[<span style="font-size:10pt;font-family:Arial;font-style:normal;">120 sheets notebook with hard cover made of recycled cardboard. 16x22cm</span>]]></description>
+<display>1</display>
+<brand><![CDATA[Graphic Corner]]></brand>
+<papertype><![CDATA[Ruled]]></papertype><features_combined><![CDATA[Paper Type: Ruled\\n]]></features_combined><title><![CDATA[Brown bear notebook, Ruled]]></title>
+<condition>Nieuw</condition>
+</product>
+<product>
+<price>15,61</price>
+<code>33-17</code>
+<sku>demo_9</sku>
+<eancode/>
+<productlink><![CDATA[http://172.17.0.6/index.php?id_product=17&id_product_attribute=33&rewrite=mountain-fox-notebook&controller=product#/paper_type-plain]]></productlink>
+<imagelink><![CDATA[http://172.17.0.6/img/p/1/9/19.jpg]]></imagelink>
+<shop_category>Root &gt; Home &gt; Accessoires &gt; Stationery</shop_category>
+<deliveryperiod_nl>2 dagen</deliveryperiod_nl>
+<shippingcost_nl>6.05</shippingcost_nl>
+<deliveryperiod_be>5 dagen</deliveryperiod_be>
+<shippingcost_be>6.05</shippingcost_be>
+<description><![CDATA[<span style="font-size:10pt;font-family:Arial;font-style:normal;">120 sheets notebook with hard cover made of recycled cardboard. 16x22cm</span>]]></description>
+<display>1</display>
+<brand><![CDATA[Graphic Corner]]></brand>
+<papertype><![CDATA[Plain]]></papertype><features_combined><![CDATA[Paper Type: Plain\\n]]></features_combined><title><![CDATA[Brown bear notebook, Plain]]></title>
+<condition>Nieuw</condition>
+</product>
+<product>
+<price>15,61</price>
+<code>34-17</code>
+<sku>demo_9</sku>
+<eancode/>
+<productlink><![CDATA[http://172.17.0.6/index.php?id_product=17&id_product_attribute=34&rewrite=mountain-fox-notebook&controller=product#/paper_type-squarred]]></productlink>
+<imagelink><![CDATA[http://172.17.0.6/img/p/1/9/19.jpg]]></imagelink>
+<shop_category>Root &gt; Home &gt; Accessoires &gt; Stationery</shop_category>
+<deliveryperiod_nl>2 dagen</deliveryperiod_nl>
+<shippingcost_nl>6.05</shippingcost_nl>
+<deliveryperiod_be>5 dagen</deliveryperiod_be>
+<shippingcost_be>6.05</shippingcost_be>
+<description><![CDATA[<span style="font-size:10pt;font-family:Arial;font-style:normal;">120 sheets notebook with hard cover made of recycled cardboard. 16x22cm</span>]]></description>
+<display>1</display>
+<brand><![CDATA[Graphic Corner]]></brand>
+<papertype><![CDATA[Squarred]]></papertype><features_combined><![CDATA[Paper Type: Squarred\\n]]></features_combined><title><![CDATA[Brown bear notebook, Squarred]]></title>
+<condition>Nieuw</condition>
+</product>
+<product>
+<price>15,61</price>
+<code>35-17</code>
+<sku>demo_9</sku>
+<eancode/>
+<productlink><![CDATA[http://172.17.0.6/index.php?id_product=17&id_product_attribute=35&rewrite=mountain-fox-notebook&controller=product#/paper_type-doted]]></productlink>
+<imagelink><![CDATA[http://172.17.0.6/img/p/1/9/19.jpg]]></imagelink>
+<shop_category>Root &gt; Home &gt; Accessoires &gt; Stationery</shop_category>
+<deliveryperiod_nl>2 dagen</deliveryperiod_nl>
+<shippingcost_nl>6.05</shippingcost_nl>
+<deliveryperiod_be>5 dagen</deliveryperiod_be>
+<shippingcost_be>6.05</shippingcost_be>
+<description><![CDATA[<span style="font-size:10pt;font-family:Arial;font-style:normal;">120 sheets notebook with hard cover made of recycled cardboard. 16x22cm</span>]]></description>
+<display>1</display>
+<brand><![CDATA[Graphic Corner]]></brand>
+<papertype><![CDATA[Doted]]></papertype><features_combined><![CDATA[Paper Type: Doted\\n]]></features_combined><title><![CDATA[Brown bear notebook, Doted]]></title>
+<condition>Nieuw</condition>
+</product>
+<product>
+<price>15,61</price>
+<code>36-18</code>
+<sku>demo_10</sku>
+<eancode/>
+<productlink><![CDATA[http://172.17.0.6/index.php?id_product=18&id_product_attribute=36&rewrite=mountain-fox-notebook&controller=product#/paper_type-ruled]]></productlink>
+<imagelink><![CDATA[http://172.17.0.6/img/p/2/0/20.jpg]]></imagelink>
+<shop_category>Root &gt; Home &gt; Accessoires &gt; Stationery</shop_category>
+<deliveryperiod_nl>2 dagen</deliveryperiod_nl>
+<shippingcost_nl>6.05</shippingcost_nl>
+<deliveryperiod_be>5 dagen</deliveryperiod_be>
+<shippingcost_be>6.05</shippingcost_be>
+<description><![CDATA[<span style="font-size:10pt;font-family:Arial;font-style:normal;">120 sheets notebook with hard cover made of recycled cardboard. 16x22cm</span>]]></description>
+<display>1</display>
+<brand><![CDATA[Graphic Corner]]></brand>
+<papertype><![CDATA[Ruled]]></papertype><features_combined><![CDATA[Paper Type: Ruled\\n]]></features_combined><title><![CDATA[Hummingbird notebook, Ruled]]></title>
+<condition>Nieuw</condition>
+</product>
+<product>
+<price>15,61</price>
+<code>37-18</code>
+<sku>demo_10</sku>
+<eancode/>
+<productlink><![CDATA[http://172.17.0.6/index.php?id_product=18&id_product_attribute=37&rewrite=mountain-fox-notebook&controller=product#/paper_type-plain]]></productlink>
+<imagelink><![CDATA[http://172.17.0.6/img/p/2/0/20.jpg]]></imagelink>
+<shop_category>Root &gt; Home &gt; Accessoires &gt; Stationery</shop_category>
+<deliveryperiod_nl>2 dagen</deliveryperiod_nl>
+<shippingcost_nl>6.05</shippingcost_nl>
+<deliveryperiod_be>5 dagen</deliveryperiod_be>
+<shippingcost_be>6.05</shippingcost_be>
+<description><![CDATA[<span style="font-size:10pt;font-family:Arial;font-style:normal;">120 sheets notebook with hard cover made of recycled cardboard. 16x22cm</span>]]></description>
+<display>1</display>
+<brand><![CDATA[Graphic Corner]]></brand>
+<papertype><![CDATA[Plain]]></papertype><features_combined><![CDATA[Paper Type: Plain\\n]]></features_combined><title><![CDATA[Hummingbird notebook, Plain]]></title>
+<condition>Nieuw</condition>
+</product>
+<product>
+<price>15,61</price>
+<code>38-18</code>
+<sku>demo_10</sku>
+<eancode/>
+<productlink><![CDATA[http://172.17.0.6/index.php?id_product=18&id_product_attribute=38&rewrite=mountain-fox-notebook&controller=product#/paper_type-squarred]]></productlink>
+<imagelink><![CDATA[http://172.17.0.6/img/p/2/0/20.jpg]]></imagelink>
+<shop_category>Root &gt; Home &gt; Accessoires &gt; Stationery</shop_category>
+<deliveryperiod_nl>2 dagen</deliveryperiod_nl>
+<shippingcost_nl>6.05</shippingcost_nl>
+<deliveryperiod_be>5 dagen</deliveryperiod_be>
+<shippingcost_be>6.05</shippingcost_be>
+<description><![CDATA[<span style="font-size:10pt;font-family:Arial;font-style:normal;">120 sheets notebook with hard cover made of recycled cardboard. 16x22cm</span>]]></description>
+<display>1</display>
+<brand><![CDATA[Graphic Corner]]></brand>
+<papertype><![CDATA[Squarred]]></papertype><features_combined><![CDATA[Paper Type: Squarred\\n]]></features_combined><title><![CDATA[Hummingbird notebook, Squarred]]></title>
+<condition>Nieuw</condition>
+</product>
+<product>
+<price>15,61</price>
+<code>39-18</code>
+<sku>demo_10</sku>
+<eancode/>
+<productlink><![CDATA[http://172.17.0.6/index.php?id_product=18&id_product_attribute=39&rewrite=mountain-fox-notebook&controller=product#/paper_type-doted]]></productlink>
+<imagelink><![CDATA[http://172.17.0.6/img/p/2/0/20.jpg]]></imagelink>
+<shop_category>Root &gt; Home &gt; Accessoires &gt; Stationery</shop_category>
+<deliveryperiod_nl>2 dagen</deliveryperiod_nl>
+<shippingcost_nl>6.05</shippingcost_nl>
+<deliveryperiod_be>5 dagen</deliveryperiod_be>
+<shippingcost_be>6.05</shippingcost_be>
+<description><![CDATA[<span style="font-size:10pt;font-family:Arial;font-style:normal;">120 sheets notebook with hard cover made of recycled cardboard. 16x22cm</span>]]></description>
+<display>1</display>
+<brand><![CDATA[Graphic Corner]]></brand>
+<papertype><![CDATA[Doted]]></papertype><features_combined><![CDATA[Paper Type: Doted\\n]]></features_combined><title><![CDATA[Hummingbird notebook, Doted]]></title>
+<condition>Nieuw</condition>
+</product>
+<product>
+<price>16,82</price>
+<code>19</code>
+<sku>demo_14</sku>
+<eancode/>
+<productlink><![CDATA[http://172.17.0.6/index.php?id_product=19&rewrite=customizable-mug&controller=product]]></productlink>
+<imagelink><![CDATA[http://172.17.0.6/img/p/2/2/22.jpg]]></imagelink>
+<shop_category>Root &gt; Home &gt; Accessoires &gt; Home Accessories</shop_category>
+<deliveryperiod_nl>2 dagen</deliveryperiod_nl>
+<shippingcost_nl>6.05</shippingcost_nl>
+<deliveryperiod_be>5 dagen</deliveryperiod_be>
+<shippingcost_be>6.05</shippingcost_be>
+<description><![CDATA[<span style="font-size:10pt;font-family:Arial;font-style:normal;">White Ceramic Mug. 325ml</span>]]></description>
+<display>1</display>
+<brand><![CDATA[Studio Design]]></brand>
+<features_combined><![CDATA[]]></features_combined><title><![CDATA[Customizable mug]]></title>
+<condition>Nieuw</condition>
+</product>
 </productfeed>
